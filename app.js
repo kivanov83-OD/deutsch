@@ -5,7 +5,8 @@ const state = {
   score: 0,
   answeredIds: new Set(),
   selectedCategory: 'all',
-  selectedAnswerIndex: null
+  selectedAnswerIndex: null,
+  shuffledAnswers: []
 };
 
 const els = {
@@ -38,6 +39,17 @@ function escapeHtml(value = '') {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#039;');
+}
+
+function shuffleArray(array) {
+  const arr = [...array];
+
+  for (let i = arr.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+
+  return arr;
 }
 
 function setStatus(type, text) {
@@ -84,7 +96,7 @@ function renderInfo(answer, question) {
     <div class="info-grid">
       <section class="info-block">
         <p class="info-label">Перевод на русский</p>
-        <p class="info-value">${escapeHtml(info.translation || '—')}</p>
+        <p class="info-value">${escapeHtml(info.translation || question.question?.ru || '—')}</p>
       </section>
 
       <section class="info-block">
@@ -121,7 +133,11 @@ function updateHeader(question) {
   els.questionsCount.textContent = state.filtered.length;
   els.difficultyBadge.textContent = question?.difficulty || 'Без уровня';
   els.questionTag.textContent = question?.tag || '—';
-  const progress = state.filtered.length ? ((state.currentIndex + 1) / state.filtered.length) * 100 : 0;
+
+  const progress = state.filtered.length
+    ? ((state.currentIndex + 1) / state.filtered.length) * 100
+    : 0;
+
   els.progressBar.style.width = `${progress}%`;
 }
 
@@ -132,10 +148,11 @@ function updateNavButtons() {
 
 function paintAnswers(selectedIndex = null) {
   const buttons = [...els.answersList.querySelectorAll('.answer-btn')];
-  const question = state.filtered[state.currentIndex];
 
   buttons.forEach((button, index) => {
-    const answer = question.answers[index];
+    const answer = state.shuffledAnswers[index];
+    if (!answer) return;
+
     button.classList.remove('is-selected', 'is-correct', 'is-wrong');
 
     if (selectedIndex === index) {
@@ -152,12 +169,13 @@ function paintAnswers(selectedIndex = null) {
 function handleAnswerClick(answer, answerIndex) {
   const question = state.filtered[state.currentIndex];
   state.selectedAnswerIndex = answerIndex;
+
   renderInfo(answer, question);
   paintAnswers(answerIndex);
 
-  if (answer.correct && !state.answeredIds.has(question.id)) {
+  if (answer.correct && !state.answeredIds.has(question.id ?? `${state.currentIndex}-${question.question?.de || ''}`)) {
     state.score += 1;
-    state.answeredIds.add(question.id);
+    state.answeredIds.add(question.id ?? `${state.currentIndex}-${question.question?.de || ''}`);
   }
 
   updateHeader(question);
@@ -168,8 +186,10 @@ function renderQuestion() {
 
   if (!question) {
     els.questionTitle.textContent = 'Вопросы не найдены';
+    els.questionTranslation.textContent = '';
     els.questionDescription.textContent = 'Попробуй выбрать другую тему или проверь файл questions.json.';
     els.answersList.innerHTML = '';
+    state.shuffledAnswers = [];
     renderInfoEmpty();
     updateHeader(null);
     updateNavButtons();
@@ -177,12 +197,14 @@ function renderQuestion() {
   }
 
   state.selectedAnswerIndex = null;
+  state.shuffledAnswers = shuffleArray(question.answers || []);
+
   els.questionTitle.textContent = question.question?.de || '—';
   els.questionTranslation.textContent = question.question?.ru || '';
   els.questionDescription.textContent = question.description || '';
   els.answersList.innerHTML = '';
 
-  question.answers.forEach((answer, index) => {
+  state.shuffledAnswers.forEach((answer, index) => {
     const node = els.template.content.firstElementChild.cloneNode(true);
     node.querySelector('.answer-letter').textContent = String.fromCharCode(65 + index);
     node.querySelector('.answer-text').textContent = answer.text;
@@ -197,10 +219,14 @@ function renderQuestion() {
 }
 
 function populateCategories(questions) {
-  const categories = [...new Set(questions.map((q) => q.category).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'ru'));
-  els.categorySelect.innerHTML = '<option value="all">Все темы</option>' + categories
-    .map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`)
-    .join('');
+  const categories = [...new Set(questions.map((q) => q.category).filter(Boolean))]
+    .sort((a, b) => a.localeCompare(b, 'ru'));
+
+  els.categorySelect.innerHTML =
+    '<option value="all">Все темы</option>' +
+    categories
+      .map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`)
+      .join('');
 }
 
 function applyFilter() {
@@ -217,6 +243,7 @@ function shuffleCurrent() {
     const j = Math.floor(Math.random() * (i + 1));
     [state.filtered[i], state.filtered[j]] = [state.filtered[j], state.filtered[i]];
   }
+
   state.currentIndex = 0;
   renderQuestion();
 }
@@ -227,6 +254,7 @@ function resetQuiz() {
   state.currentIndex = 0;
   state.selectedCategory = 'all';
   state.selectedAnswerIndex = null;
+  state.shuffledAnswers = [];
   els.categorySelect.value = 'all';
   state.filtered = [...state.source];
   renderQuestion();
@@ -271,6 +299,7 @@ async function init() {
   } catch (error) {
     console.error(error);
     els.questionTitle.textContent = 'Не удалось загрузить вопросы';
+    els.questionTranslation.textContent = '';
     els.questionDescription.textContent = 'Проверь questions.json или обнови страницу после коммита.';
     els.answersList.innerHTML = '';
     els.infoPanel.className = 'info-panel';
