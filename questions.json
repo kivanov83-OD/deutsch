@@ -3627,43 +3627,25 @@
   }
 },
 {
-  "category": "Verben mit Präpositionen",
-  "question": { "de": "abhängen ___", "ru": "зависеть от чего-то" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "abhängen von + D",
-    "translation": "зависеть от чего-то",
-    "example": "Ob wir fahren, hängt vom Wetter ab.",
-    "example_ru": "Поедем ли мы, зависит от погоды.",
-    "etymology": "abhängen von — одна из самых частых конструкций.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "achten ___", "ru": "обращать внимание на что-то" },
   "answers": [
     {"text":"auf","correct":true},
     {"text":"an","correct":false},
     {"text":"für","correct":false},
-    {"text":"mit","correct":false}
+    {"text":"über","correct":false}
   ],
   "info": {
     "phrase": "achten auf + A",
     "translation": "обращать внимание на что-то",
     "example": "Bitte achte auf den neuen Mantel.",
     "example_ru": "Пожалуйста, обрати внимание на новое пальто.",
-    "etymology": "achten auf используется для внимания или заботы.",
+    "etymology": "achten связано с вниманием и осторожностью.",
     "usage": "После auf используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "anfangen ___", "ru": "начинать что-то" },
   "answers": [
     {"text":"mit","correct":true},
@@ -3676,30 +3658,12 @@
     "translation": "начинать что-то",
     "example": "Ich fange mit der Übung an.",
     "example_ru": "Я начинаю упражнение.",
-    "etymology": "anfangen mit используется для начала действия.",
+    "etymology": "anfangen означает начало действия.",
     "usage": "После mit используется Dativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen",
-  "question": { "de": "ankommen ___", "ru": "зависеть от чего-то (иметь значение)" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"von","correct":false},
-    {"text":"an","correct":false},
-    {"text":"für","correct":false}
-  ],
-  "info": {
-    "phrase": "ankommen auf + A",
-    "translation": "зависеть от чего-то",
-    "example": "Es kommt auf den richtigen Preis an.",
-    "example_ru": "Всё зависит от правильной цены.",
-    "etymology": "ankommen auf используется для результата.",
-    "usage": "После auf используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "antworten ___", "ru": "отвечать на что-то" },
   "answers": [
     {"text":"auf","correct":true},
@@ -3712,12 +3676,12 @@
     "translation": "отвечать на что-то",
     "example": "Bitte antworten Sie heute auf den Brief.",
     "example_ru": "Пожалуйста, ответьте сегодня на письмо.",
-    "etymology": "antworten auf используется для ответа на вопрос.",
+    "etymology": "antworten связано с реакцией на вопрос или сообщение.",
     "usage": "После auf используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "sich ärgern ___", "ru": "злиться из-за чего-то" },
   "answers": [
     {"text":"über","correct":true},
@@ -3730,12 +3694,12 @@
     "translation": "злиться из-за чего-то",
     "example": "Wir ärgern uns über den Regen.",
     "example_ru": "Мы злимся из-за дождя.",
-    "etymology": "sich ärgern über выражает раздражение.",
+    "etymology": "ärgern связано с раздражением и досадой.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "aufhören ___", "ru": "прекращать что-то" },
   "answers": [
     {"text":"mit","correct":true},
@@ -3748,12 +3712,12 @@
     "translation": "прекращать что-то",
     "example": "Er hört um 17.00 Uhr mit der Arbeit auf.",
     "example_ru": "Он заканчивает работу в 17:00.",
-    "etymology": "aufhören mit используется для прекращения действия.",
+    "etymology": "aufhören означает прекращение действия.",
     "usage": "После mit используется Dativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "aufpassen ___", "ru": "следить за кем-то" },
   "answers": [
     {"text":"auf","correct":true},
@@ -3766,116 +3730,80 @@
     "translation": "следить за кем-то",
     "example": "Ein Babysitter passt auf kleine Kinder auf.",
     "example_ru": "Няня присматривает за маленькими детьми.",
-    "etymology": "aufpassen auf используется для присмотра.",
+    "etymology": "aufpassen связано с внимательностью и наблюдением.",
     "usage": "После auf используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "abhängen ___", "ru": "зависеть от чего-то" },
+  "question": { "de": "sich aufregen ___", "ru": "возмущаться из-за чего-то" },
   "answers": [
-    {"text":"von","correct":true},
+    {"text":"über","correct":true},
     {"text":"auf","correct":false},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false}
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false}
   ],
   "info": {
-    "phrase": "abhängen von + D",
-    "translation": "зависеть от чего-то",
-    "example": "Ob wir fahren, hängt vom Wetter ab.",
-    "example_ru": "Поедем ли мы, зависит от погоды.",
-    "etymology": "Конструкция указывает на зависимость от обстоятельств.",
-    "usage": "После von используется Dativ."
+    "phrase": "sich aufregen über + A",
+    "translation": "возмущаться из-за чего-то",
+    "example": "Deutsche regen sich über Unpünktlichkeit auf.",
+    "example_ru": "Немцы возмущаются из-за непунктуальности.",
+    "etymology": "aufregen буквально связано с сильным волнением.",
+    "usage": "После über используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "achten ___", "ru": "обращать внимание на что-то" },
+  "question": { "de": "ausgeben ___", "ru": "тратить на что-то" },
   "answers": [
-    {"text":"auf","correct":true},
-    {"text":"an","correct":false},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false}
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"auf","correct":false},
+    {"text":"von","correct":false}
   ],
   "info": {
-    "phrase": "achten auf + A",
-    "translation": "обращать внимание на что-то",
-    "example": "Bitte achte auf den neuen Mantel.",
-    "example_ru": "Пожалуйста, обрати внимание на новое пальто.",
-    "etymology": "achten означает уделять внимание.",
-    "usage": "После auf используется Akkusativ."
+    "phrase": "ausgeben für + A",
+    "translation": "тратить на что-то",
+    "example": "Manche geben viel Geld für Schuhe aus.",
+    "example_ru": "Некоторые тратят много денег на обувь.",
+    "etymology": "ausgeben связано с расходованием денег.",
+    "usage": "После für используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "anfangen ___", "ru": "начинать что-то" },
+  "question": { "de": "sich bedanken ___", "ru": "благодарить кого-то" },
   "answers": [
-    {"text":"mit","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "anfangen mit + D",
-    "translation": "начинать что-то",
-    "example": "Ich fange mit der Übung an.",
-    "example_ru": "Я начинаю упражнение.",
-    "etymology": "anfangen используется для начала действия.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "antworten ___", "ru": "отвечать на что-то" },
-  "answers": [
-    {"text":"auf","correct":true},
+    {"text":"bei","correct":true},
     {"text":"für","correct":false},
     {"text":"mit","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "antworten auf + A",
-    "translation": "отвечать на что-то",
-    "example": "Bitte antworten Sie heute auf den Brief.",
-    "example_ru": "Пожалуйста, ответьте сегодня на письмо.",
-    "etymology": "antworten связывает реакцию с вопросом.",
-    "usage": "После auf используется Akkusativ."
+    "phrase": "sich bedanken bei + D",
+    "translation": "благодарить кого-то",
+    "example": "Ich bedanke mich herzlich bei dir.",
+    "example_ru": "Я сердечно благодарю тебя.",
+    "etymology": "bedanken связано со словом Dank.",
+    "usage": "После bei используется Dativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "aufhören ___", "ru": "прекращать что-то" },
+  "question": { "de": "sich bedanken ___", "ru": "благодарить за что-то" },
   "answers": [
-    {"text":"mit","correct":true},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false},
+    {"text":"für","correct":true},
+    {"text":"bei","correct":false},
+    {"text":"mit","correct":false},
     {"text":"über","correct":false}
   ],
   "info": {
-    "phrase": "aufhören mit + D",
-    "translation": "прекращать что-то",
-    "example": "Er hört um 17.00 Uhr mit der Arbeit auf.",
-    "example_ru": "Он заканчивает работу в 17:00.",
-    "etymology": "aufhören означает прекращать действие.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "aufpassen ___", "ru": "следить за кем-то" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"an","correct":false},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false}
-  ],
-  "info": {
-    "phrase": "aufpassen auf + A",
-    "translation": "следить за кем-то",
-    "example": "Ein Babysitter passt auf kleine Kinder auf.",
-    "example_ru": "Няня присматривает за маленькими детьми.",
-    "etymology": "aufpassen означает наблюдать или присматривать.",
-    "usage": "После auf используется Akkusativ."
+    "phrase": "sich bedanken für + A",
+    "translation": "благодарить за что-то",
+    "example": "Martin bedankt sich für das Geschenk.",
+    "example_ru": "Мартин благодарит за подарок.",
+    "etymology": "bedanken für указывает на причину благодарности.",
+    "usage": "После für используется Akkusativ."
   }
 },
 {
@@ -3898,24 +3826,6 @@
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "denken ___", "ru": "думать о чём-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"von","correct":false}
-  ],
-  "info": {
-    "phrase": "denken an + A",
-    "translation": "думать о чём-то",
-    "example": "Maria denkt oft an den Urlaub.",
-    "example_ru": "Мария часто думает об отпуске.",
-    "etymology": "denken an используется для воспоминаний или мыслей.",
-    "usage": "После an используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
   "question": { "de": "danken ___", "ru": "благодарить за что-то" },
   "answers": [
     {"text":"für","correct":true},
@@ -3928,8 +3838,26 @@
     "translation": "благодарить за что-то",
     "example": "Sam dankt für Ritas Hilfe.",
     "example_ru": "Сэм благодарит за помощь Риты.",
-    "etymology": "danken связано с благодарностью.",
+    "etymology": "danken связано с выражением благодарности.",
     "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "denken ___", "ru": "думать о чём-то" },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"von","correct":false}
+  ],
+  "info": {
+    "phrase": "denken an + A",
+    "translation": "думать о чём-то",
+    "example": "Maria denkt oft an den Urlaub.",
+    "example_ru": "Мария часто думает об отпуске.",
+    "etymology": "denken an часто используется для воспоминаний и мыслей.",
+    "usage": "После an используется Akkusativ."
   }
 },
 {
@@ -3946,7 +3874,7 @@
     "translation": "приглашать на что-то",
     "example": "Ich lade dich zu meinem Geburtstag ein.",
     "example_ru": "Я приглашаю тебя на мой день рождения.",
-    "etymology": "einladen используется для приглашений.",
+    "etymology": "einladen связано с приглашением к событию.",
     "usage": "После zu используется Dativ."
   }
 },
@@ -3964,13 +3892,13 @@
     "translation": "радоваться чему-то (в будущем)",
     "example": "Kinder freuen sich auf die Ferien.",
     "example_ru": "Дети радуются предстоящим каникулам.",
-    "etymology": "freuen auf используется для ожидания события.",
+    "etymology": "freuen auf указывает на ожидание.",
     "usage": "После auf используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sich freuen ___", "ru": "радоваться чему-то (уже случившемуся)" },
+  "question": { "de": "sich freuen ___", "ru": "радоваться чему-то" },
   "answers": [
     {"text":"über","correct":true},
     {"text":"auf","correct":false},
@@ -3982,116 +3910,26 @@
     "translation": "радоваться чему-то",
     "example": "Jeder freut sich über eine Gehaltserhöhung.",
     "example_ru": "Каждый радуется повышению зарплаты.",
-    "etymology": "freuen über используется для уже произошедшего события.",
+    "etymology": "freuen über относится к уже произошедшему факту.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sprechen ___", "ru": "разговаривать с кем-то" },
+  "question": { "de": "glauben ___", "ru": "верить во что-то" },
   "answers": [
-    {"text":"mit","correct":true},
+    {"text":"an","correct":true},
     {"text":"über","correct":false},
     {"text":"für","correct":false},
-    {"text":"zu","correct":false}
+    {"text":"mit","correct":false}
   ],
   "info": {
-    "phrase": "sprechen mit + D",
-    "translation": "разговаривать с кем-то",
-    "example": "Ich spreche noch einmal mit deinem Vater.",
-    "example_ru": "Я ещё раз поговорю с твоим отцом.",
-    "etymology": "sprechen mit обозначает разговор с человеком.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sprechen ___", "ru": "говорить о чём-то" },
-  "answers": [
-    {"text":"über","correct":true},
-    {"text":"mit","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sprechen über + A",
-    "translation": "говорить о чём-то",
-    "example": "Lass uns über deine Zukunft sprechen.",
-    "example_ru": "Давай поговорим о твоём будущем.",
-    "etymology": "sprechen über используется для темы разговора.",
-    "usage": "После über используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "telefonieren ___", "ru": "разговаривать по телефону с кем-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "telefonieren mit + D",
-    "translation": "разговаривать по телефону",
-    "example": "Hast du schon mit dem Arzt telefoniert?",
-    "example_ru": "Ты уже разговаривал с врачом по телефону?",
-    "etymology": "telefonieren mit используется для телефонного разговора.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "warten ___", "ru": "ждать кого-то или чего-то" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"für","correct":false},
-    {"text":"mit","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "warten auf + A",
-    "translation": "ждать кого-то или чего-то",
-    "example": "Hier wartet man lange auf einen Bus.",
-    "example_ru": "Здесь долго ждут автобус.",
-    "etymology": "warten auf используется для ожидания.",
-    "usage": "После auf используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sein ___", "ru": "быть за что-то" },
-  "answers": [
-    {"text":"für","correct":true},
-    {"text":"gegen","correct":false},
-    {"text":"mit","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sein für + A",
-    "translation": "быть за что-то",
-    "example": "Ich bin für die Abschaffung der Kinderarbeit.",
-    "example_ru": "Я за отмену детского труда.",
-    "etymology": "sein für используется для выражения поддержки.",
-    "usage": "После für используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sein ___", "ru": "быть против чего-то" },
-  "answers": [
-    {"text":"gegen","correct":true},
-    {"text":"für","correct":false},
-    {"text":"mit","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sein gegen + A",
-    "translation": "быть против чего-то",
-    "example": "Viele sind gegen Steuererhöhungen.",
-    "example_ru": "Многие против повышения налогов.",
-    "etymology": "sein gegen используется для выражения противоположной позиции.",
-    "usage": "После gegen используется Akkusativ."
+    "phrase": "glauben an + A",
+    "translation": "верить во что-то",
+    "example": "Teenager glauben an die große Liebe.",
+    "example_ru": "Подростки верят в большую любовь.",
+    "etymology": "glauben an связано с верой и убеждением.",
+    "usage": "После an используется Akkusativ."
   }
 },
 {
@@ -4108,44 +3946,26 @@
     "translation": "помогать при чём-то",
     "example": "Kann ich dir beim Tischdecken helfen?",
     "example_ru": "Могу я помочь тебе накрыть на стол?",
-    "etymology": "helfen bei используется для действия, в котором помогают.",
+    "etymology": "helfen bei указывает на действие, в котором помогают.",
     "usage": "После bei используется Dativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "gehören ___", "ru": "принадлежать к чему-то" },
+  "question": { "de": "hoffen ___", "ru": "надеяться на что-то" },
   "answers": [
-    {"text":"zu","correct":true},
+    {"text":"auf","correct":true},
     {"text":"für","correct":false},
     {"text":"über","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "gehören zu + D",
-    "translation": "принадлежать к чему-то",
-    "example": "Das Elsass gehört zu Frankreich.",
-    "example_ru": "Эльзас принадлежит Франции.",
-    "etymology": "gehören zu используется для принадлежности.",
-    "usage": "После zu используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sich kümmern ___", "ru": "заботиться о ком-то" },
-  "answers": [
-    {"text":"um","correct":true},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false},
-    {"text":"über","correct":false}
-  ],
-  "info": {
-    "phrase": "sich kümmern um + A",
-    "translation": "заботиться о ком-то",
-    "example": "Im Pflegeheim kümmert man sich um alte Leute.",
-    "example_ru": "В доме престарелых заботятся о пожилых людях.",
-    "etymology": "kümmern означает проявлять заботу.",
-    "usage": "После um используется Akkusativ."
+    "phrase": "hoffen auf + A",
+    "translation": "надеяться на что-то",
+    "example": "Im März hoffen alle auf warme Frühlingstage.",
+    "example_ru": "В марте все надеются на тёплые весенние дни.",
+    "etymology": "hoffen связано с ожиданием желаемого.",
+    "usage": "После auf используется Akkusativ."
   }
 },
 {
@@ -4162,115 +3982,7 @@
     "translation": "интересоваться чем-то",
     "example": "Monika interessiert sich für ein Smartphone.",
     "example_ru": "Моника интересуется смартфоном.",
-    "etymology": "interessieren связано с интересом.",
-    "usage": "После für используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sich informieren ___", "ru": "узнавать информацию о чём-то" },
-  "answers": [
-    {"text":"über","correct":true},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "sich informieren über + A",
-    "translation": "узнавать информацию о чём-то",
-    "example": "Auf der Messe kann man sich über neue Technologien informieren.",
-    "example_ru": "На выставке можно узнать о новых технологиях.",
-    "etymology": "informieren означает получать информацию.",
-    "usage": "После über используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sich gewöhnen ___", "ru": "привыкать к чему-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "sich gewöhnen an + A",
-    "translation": "привыкать к чему-то",
-    "example": "Ich kann mich nicht an die Zeitumstellung gewöhnen.",
-    "example_ru": "Я не могу привыкнуть к смене времени.",
-    "etymology": "gewöhnen означает привыкание.",
-    "usage": "После an используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "sich konzentrieren ___", "ru": "концентрироваться на чём-то" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich konzentrieren auf + A",
-    "translation": "концентрироваться на чём-то",
-    "example": "Karl konzentriert sich auf seine Hausaufgaben.",
-    "example_ru": "Карл концентрируется на домашнем задании.",
-    "etymology": "konzentrieren означает сосредоточение.",
-    "usage": "После auf используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "rechnen ___", "ru": "рассчитывать на что-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "rechnen mit + D",
-    "translation": "рассчитывать на что-то",
-    "example": "Im Januar muss man mit Schnee rechnen.",
-    "example_ru": "В январе нужно рассчитывать на снег.",
-    "etymology": "rechnen ursprünglich связано с подсчётом.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "protestieren ___", "ru": "протестовать против чего-то" },
-  "answers": [
-    {"text":"gegen","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "protestieren gegen + A",
-    "translation": "протестовать против чего-то",
-    "example": "Viele Menschen protestieren gegen Atomkraft.",
-    "example_ru": "Многие люди протестуют против атомной энергии.",
-    "etymology": "protestieren происходит из латинского protestari.",
-    "usage": "После gegen используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen A2",
-  "question": { "de": "kämpfen ___", "ru": "бороться за что-то" },
-  "answers": [
-    {"text":"für","correct":true},
-    {"text":"gegen","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "kämpfen für + A",
-    "translation": "бороться за что-то",
-    "example": "Die Gewerkschaft kämpft für höhere Löhne.",
-    "example_ru": "Профсоюз борется за более высокие зарплаты.",
-    "etymology": "kämpfen ursprünglich связано с борьбой.",
+    "etymology": "interessieren связано с интересом к предмету.",
     "usage": "После für используется Akkusativ."
   }
 },
@@ -4288,210 +4000,174 @@
     "translation": "смеяться над чем-то",
     "example": "Über einen guten Witz muss man laut lachen.",
     "example_ru": "Над хорошей шуткой нужно громко смеяться.",
-    "etymology": "lachen означает смеяться.",
+    "etymology": "lachen über указывает на причину смеха.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
   "category": "Verben mit Präpositionen A2",
-  "question": { "de": "teilnehmen ___", "ru": "участвовать в чём-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "teilnehmen an + D",
-    "translation": "участвовать в чём-то",
-    "example": "Nordkorea nimmt an der Fußball-WM teil.",
-    "example_ru": "Северная Корея участвует в чемпионате мира по футболу.",
-    "etymology": "teilnehmen означает принимать участие.",
-    "usage": "После an используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich erinnern ___", "ru": "вспоминать о чём-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "sich erinnern an + A",
-    "translation": "вспоминать о чём-то",
-    "example": "Wir erinnern uns gern an unser erstes Ehejahr.",
-    "example_ru": "Мы с удовольствием вспоминаем наш первый год брака.",
-    "etymology": "erinnern связано с памятью.",
-    "usage": "После an используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich erkundigen ___", "ru": "спрашивать о чём-то" },
-  "answers": [
-    {"text":"nach","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich erkundigen nach + D",
-    "translation": "спрашивать о чём-то",
-    "example": "Oma erkundigt sich oft nach meinen Plänen.",
-    "example_ru": "Бабушка часто спрашивает о моих планах.",
-    "etymology": "erkundigen означает узнавать информацию.",
-    "usage": "После nach используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "fragen ___", "ru": "спрашивать о чём-то" },
-  "answers": [
-    {"text":"nach","correct":true},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false},
-    {"text":"für","correct":false}
-  ],
-  "info": {
-    "phrase": "fragen nach + D",
-    "translation": "спрашивать о чём-то",
-    "example": "Die Journalistin fragt nach den Konsequenzen.",
-    "example_ru": "Журналистка спрашивает о последствиях.",
-    "etymology": "fragen означает задавать вопрос.",
-    "usage": "После nach используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "glauben ___", "ru": "верить во что-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "glauben an + A",
-    "translation": "верить во что-то",
-    "example": "Teenager glauben an die große Liebe.",
-    "example_ru": "Подростки верят в большую любовь.",
-    "etymology": "glauben связано с верой или убеждением.",
-    "usage": "После an используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "gratulieren ___", "ru": "поздравлять с чем-то" },
-  "answers": [
-    {"text":"zu","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "gratulieren zu + D",
-    "translation": "поздравлять с чем-то",
-    "example": "Wir gratulieren dir zum Geburtstag.",
-    "example_ru": "Мы поздравляем тебя с днём рождения.",
-    "etymology": "gratulieren происходит из латинского gratulari.",
-    "usage": "После zu используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "hoffen ___", "ru": "надеяться на что-то" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "hoffen auf + A",
-    "translation": "надеяться на что-то",
-    "example": "Im März hoffen alle auf warme Frühlingstage.",
-    "example_ru": "В марте все надеются на тёплые весенние дни.",
-    "etymology": "hoffen связано с ожиданием.",
-    "usage": "После auf используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "klagen ___", "ru": "жаловаться на что-то" },
+  "question": { "de": "reden ___", "ru": "говорить о чём-то" },
   "answers": [
     {"text":"über","correct":true},
+    {"text":"mit","correct":false},
     {"text":"für","correct":false},
-    {"text":"an","correct":false},
-    {"text":"mit","correct":false}
+    {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "klagen über + A",
-    "translation": "жаловаться на что-то",
-    "example": "Tim klagt häufig über Kopfschmerzen.",
-    "example_ru": "Тим часто жалуется на головные боли.",
-    "etymology": "klagen означает выражать недовольство.",
+    "phrase": "reden über + A",
+    "translation": "говорить о чём-то",
+    "example": "Deine Mutter redet gern über Krankheiten.",
+    "example_ru": "Твоя мама любит говорить о болезнях.",
+    "etymology": "reden über обозначает тему разговора.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "nachdenken ___", "ru": "размышлять о чём-то" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "schimpfen ___", "ru": "ругаться из-за чего-то" },
   "answers": [
     {"text":"über","correct":true},
-    {"text":"an","correct":false},
+    {"text":"mit","correct":false},
     {"text":"für","correct":false},
-    {"text":"mit","correct":false}
+    {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "nachdenken über + A",
-    "translation": "размышлять о чём-то",
-    "example": "Er denkt lange über das Problem nach.",
-    "example_ru": "Он долго размышляет над проблемой.",
-    "etymology": "nachdenken означает думать глубже.",
+    "phrase": "schimpfen über + A",
+    "translation": "ругаться из-за чего-то",
+    "example": "Alle schimpfen über den Regen.",
+    "example_ru": "Все ругаются из-за дождя.",
+    "etymology": "schimpfen связано с выражением недовольства.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sorgen ___", "ru": "заботиться о чём-то" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "schreiben ___", "ru": "писать кому-то" },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"für","correct":false},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "schreiben an + A",
+    "translation": "писать кому-то",
+    "example": "Bitte schreibe noch heute an deine Mutter.",
+    "example_ru": "Пожалуйста, напиши ещё сегодня своей маме.",
+    "etymology": "schreiben an указывает адресата письма.",
+    "usage": "После an используется Akkusativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sein ___", "ru": "быть за что-то" },
   "answers": [
     {"text":"für","correct":true},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false},
-    {"text":"mit","correct":false}
+    {"text":"gegen","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "sorgen für + A",
-    "translation": "заботиться о чём-то",
-    "example": "Eltern sorgen für ihre Kinder.",
-    "example_ru": "Родители заботятся о своих детях.",
-    "etymology": "sorgen связано с заботой.",
+    "phrase": "sein für + A",
+    "translation": "быть за что-то",
+    "example": "Ich bin für die Abschaffung der Kinderarbeit.",
+    "example_ru": "Я за отмену детского труда.",
+    "etymology": "sein für выражает поддержку идеи или решения.",
     "usage": "После für используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "warnen ___", "ru": "предупреждать о чём-то" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sein ___", "ru": "быть против чего-то" },
   "answers": [
-    {"text":"vor","correct":true},
+    {"text":"gegen","correct":true},
     {"text":"für","correct":false},
-    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "warnen vor + D",
-    "translation": "предупреждать о чём-то",
-    "example": "Man warnte ihn vor den hohen Kosten.",
-    "example_ru": "Его предупредили о высоких расходах.",
-    "etymology": "warnen означает предупреждать об опасности.",
-    "usage": "После vor используется Dativ."
+    "phrase": "sein gegen + A",
+    "translation": "быть против чего-то",
+    "example": "Viele sind gegen Steuererhöhungen.",
+    "example_ru": "Многие против повышения налогов.",
+    "etymology": "sein gegen выражает отрицательную позицию.",
+    "usage": "После gegen используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sprechen ___", "ru": "разговаривать с кем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"zu","correct":false}
+  ],
+  "info": {
+    "phrase": "sprechen mit + D",
+    "translation": "разговаривать с кем-то",
+    "example": "Ich spreche noch einmal mit deinem Vater.",
+    "example_ru": "Я ещё раз поговорю с твоим отцом.",
+    "etymology": "sprechen mit обозначает собеседника.",
+    "usage": "После mit используется Dativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sprechen ___", "ru": "говорить о чём-то" },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "sprechen über + A",
+    "translation": "говорить о чём-то",
+    "example": "Lass uns über deine Zukunft sprechen.",
+    "example_ru": "Давай поговорим о твоём будущем.",
+    "etymology": "sprechen über обозначает тему беседы.",
+    "usage": "После über используется Akkusativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "streiten ___", "ru": "ссориться с кем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "streiten mit + D",
+    "translation": "ссориться с кем-то",
+    "example": "Ich möchte nicht mit dir streiten.",
+    "example_ru": "Я не хочу с тобой ссориться.",
+    "etymology": "streiten связано со спором и конфликтом.",
+    "usage": "После mit используется Dativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "telefonieren ___", "ru": "разговаривать по телефону с кем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "telefonieren mit + D",
+    "translation": "разговаривать по телефону с кем-то",
+    "example": "Hast du schon mit dem Arzt telefoniert?",
+    "example_ru": "Ты уже разговаривал с врачом по телефону?",
+    "etymology": "telefonieren связано с телефонной связью.",
+    "usage": "После mit используется Dativ."
+  }
+},
+{
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "sich treffen ___", "ru": "встречаться с кем-то" },
   "answers": [
     {"text":"mit","correct":true},
@@ -4509,349 +4185,25 @@
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich treffen ___", "ru": "встречаться для чего-то" },
-  "answers": [
-    {"text":"zu","correct":true},
-    {"text":"mit","correct":false},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false}
-  ],
-  "info": {
-    "phrase": "sich treffen zu + D",
-    "translation": "встречаться для чего-то",
-    "example": "Sie treffen sich zu einem kurzen Gespräch.",
-    "example_ru": "Они встречаются для короткого разговора.",
-    "etymology": "treffen zu указывает на цель встречи.",
-    "usage": "После zu используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich unterhalten ___", "ru": "разговаривать с кем-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"zu","correct":false}
-  ],
-  "info": {
-    "phrase": "sich unterhalten mit + D",
-    "translation": "разговаривать с кем-то",
-    "example": "Der Sänger unterhält sich mit dem Bassisten.",
-    "example_ru": "Певец разговаривает с басистом.",
-    "etymology": "unterhalten ursprünglich означает поддерживать разговор.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich unterhalten ___", "ru": "разговаривать о чём-то" },
-  "answers": [
-    {"text":"über","correct":true},
-    {"text":"mit","correct":false},
-    {"text":"für","correct":false},
-    {"text":"zu","correct":false}
-  ],
-  "info": {
-    "phrase": "sich unterhalten über + A",
-    "translation": "разговаривать о чём-то",
-    "example": "Die Designer unterhalten sich über neue Trends.",
-    "example_ru": "Дизайнеры разговаривают о новых трендах.",
-    "etymology": "unterhalten über обозначает тему разговора.",
-    "usage": "После über используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich verabreden ___", "ru": "договариваться о встрече с кем-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"zu","correct":false}
-  ],
-  "info": {
-    "phrase": "sich verabreden mit + D",
-    "translation": "договариваться о встрече",
-    "example": "Heute verabrede ich mich mit einer Freundin.",
-    "example_ru": "Сегодня я договорилась встретиться с подругой.",
-    "etymology": "verabreden происходит от слова Rede (разговор).",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich verabschieden ___", "ru": "прощаться с кем-то" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"mit","correct":false},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false}
-  ],
-  "info": {
-    "phrase": "sich verabschieden von + D",
-    "translation": "прощаться с кем-то",
-    "example": "Nun wollen wir uns von euch verabschieden.",
-    "example_ru": "Теперь мы хотим попрощаться с вами.",
-    "etymology": "abschied означает прощание.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich vorbereiten ___", "ru": "готовиться к чему-то" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "warten ___", "ru": "ждать кого-то или что-то" },
   "answers": [
     {"text":"auf","correct":true},
     {"text":"für","correct":false},
-    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "sich vorbereiten auf + A",
-    "translation": "готовиться к чему-то",
-    "example": "Karl bereitet sich auf eine Präsentation vor.",
-    "example_ru": "Карл готовится к презентации.",
-    "etymology": "vorbereiten означает готовить заранее.",
+    "phrase": "warten auf + A",
+    "translation": "ждать кого-то или что-то",
+    "example": "Hier wartet man lange auf einen Bus.",
+    "example_ru": "Здесь долго ждут автобус.",
+    "etymology": "warten связано с ожиданием.",
     "usage": "После auf используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich verlassen ___", "ru": "полагаться на кого-то" },
-  "answers": [
-    {"text":"auf","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich verlassen auf + A",
-    "translation": "полагаться на кого-то",
-    "example": "Auf mich kann man sich verlassen.",
-    "example_ru": "На меня можно положиться.",
-    "etymology": "verlassen ursprünglich означает доверять.",
-    "usage": "После auf используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich verlieben ___", "ru": "влюбляться в кого-то" },
-  "answers": [
-    {"text":"in","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich verlieben in + A",
-    "translation": "влюбляться",
-    "example": "Britta hat sich in das alte Bauernhaus verliebt.",
-    "example_ru": "Бритта влюбилась в старый фермерский дом.",
-    "etymology": "lieben означает любить.",
-    "usage": "После in используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B1",
-  "question": { "de": "sich verstehen ___", "ru": "хорошо ладить с кем-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich verstehen mit + D",
-    "translation": "хорошо ладить",
-    "example": "Daniel versteht sich gut mit seinem Chef.",
-    "example_ru": "Даниэль хорошо ладит со своим начальником.",
-    "etymology": "verstehen ursprünglich означает понимать.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "sich handeln ___", "ru": "речь идёт о чём-то" },
-  "answers": [
-    {"text":"um","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "sich handeln um + A",
-    "translation": "речь идёт о чём-то",
-    "example": "Bei der Kopie handelt es sich nicht um Originalsoftware.",
-    "example_ru": "В данном случае речь идёт не об оригинальном программном обеспечении.",
-    "etymology": "handeln ursprünglich означает действовать или иметь дело.",
-    "usage": "После um используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "hindern ___", "ru": "мешать кому-то сделать что-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "hindern an + D",
-    "translation": "мешать",
-    "example": "Ein langsamer Fahrer hindert Greta am Überholen.",
-    "example_ru": "Медленный водитель мешает Грете обгонять.",
-    "etymology": "hindern связано с препятствием.",
-    "usage": "После an используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "werden ___", "ru": "становиться чем-то" },
-  "answers": [
-    {"text":"zu","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "werden zu + D",
-    "translation": "становиться чем-то",
-    "example": "Unter null Grad wird Wasser zu Eis.",
-    "example_ru": "Ниже нуля вода превращается в лёд.",
-    "etymology": "werden означает становиться.",
-    "usage": "После zu используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "vergleichen ___", "ru": "сравнивать с чем-то" },
-  "answers": [
-    {"text":"mit","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "vergleichen mit + D",
-    "translation": "сравнивать",
-    "example": "Vergleichen Sie München mit Berlin.",
-    "example_ru": "Сравните Мюнхен с Берлином.",
-    "etymology": "vergleichen означает сопоставлять.",
-    "usage": "После mit используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "erkennen ___", "ru": "узнавать по чему-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "erkennen an + D",
-    "translation": "узнавать по чему-то",
-    "example": "Man erkennt Pinocchio an seiner langen Nase.",
-    "example_ru": "Пиноккио можно узнать по его длинному носу.",
-    "etymology": "erkennen означает узнавать.",
-    "usage": "После an используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "erzählen ___", "ru": "рассказывать о чём-то" },
-  "answers": [
-    {"text":"über","correct":true},
-    {"text":"von","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "erzählen über + A",
-    "translation": "рассказывать о чём-то",
-    "example": "Ein Ostberliner erzählt über sein Leben in der DDR.",
-    "example_ru": "Житель Восточного Берлина рассказывает о своей жизни в ГДР.",
-    "etymology": "erzählen означает повествовать.",
-    "usage": "После über используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "erzählen ___", "ru": "рассказывать о чём-то" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "erzählen von + D",
-    "translation": "рассказывать о чём-то",
-    "example": "Der Bischof erzählt von der Reise nach Rom.",
-    "example_ru": "Епископ рассказывает о поездке в Рим.",
-    "etymology": "erzählen von используется для повествования.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "wissen ___", "ru": "знать о чём-то" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"über","correct":false},
-    {"text":"für","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "wissen von + D",
-    "translation": "знать о чём-то",
-    "example": "Ich weiß nichts von neuen Computern.",
-    "example_ru": "Я ничего не знаю о новых компьютерах.",
-    "etymology": "wissen означает обладать знанием.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "zweifeln ___", "ru": "сомневаться в чём-то" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"mit","correct":false}
-  ],
-  "info": {
-    "phrase": "zweifeln an + D",
-    "translation": "сомневаться",
-    "example": "John zweifelt an der Wahrheit.",
-    "example_ru": "Джон сомневается в правде.",
-    "etymology": "zweifeln связано с сомнением.",
-    "usage": "После an используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "zusehen ___", "ru": "наблюдать за чем-то" },
-  "answers": [
-    {"text":"bei","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "zusehen bei + D",
-    "translation": "наблюдать",
-    "example": "Willst du mir beim Kochen zusehen?",
-    "example_ru": "Хочешь посмотреть, как я готовлю?",
-    "etymology": "zusehen означает наблюдать.",
-    "usage": "После bei используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
+  "category": "Verben mit Präpositionen A2",
   "question": { "de": "sich wundern ___", "ru": "удивляться чему-то" },
   "answers": [
     {"text":"über","correct":true},
@@ -4862,172 +4214,46 @@
   "info": {
     "phrase": "sich wundern über + A",
     "translation": "удивляться чему-то",
-    "example": "Viele Deutsche wundern sich über die hohen Stromkosten.",
-    "example_ru": "Многие немцы удивляются высоким ценам на электричество.",
-    "etymology": "wundern связано с чувством удивления.",
+    "example": "Viele Deutsche wundern sich über die plötzlich so hohen Stromkosten.",
+    "example_ru": "Многие немцы удивляются внезапно таким высоким расходам на электричество.",
+    "etymology": "wundern связано с неожиданностью и удивлением.",
     "usage": "После über используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "zuschauen ___", "ru": "наблюдать за чем-то" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sich konzentrieren ___", "ru": "концентрироваться на чём-то" },
   "answers": [
-    {"text":"bei","correct":true},
+    {"text":"auf","correct":true},
     {"text":"für","correct":false},
     {"text":"über","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
-    "phrase": "zuschauen bei + D",
-    "translation": "наблюдать за чем-то",
-    "example": "Kann ich dir bei der Reparatur zuschauen?",
-    "example_ru": "Можно я посмотрю, как ты ремонтируешь?",
-    "etymology": "zuschauen означает наблюдать за действием.",
-    "usage": "После bei используется Dativ."
+    "phrase": "sich konzentrieren auf + A",
+    "translation": "концентрироваться на чём-то",
+    "example": "Karl konzentriert sich auf seine Hausaufgaben.",
+    "example_ru": "Карл концентрируется на домашнем задании.",
+    "etymology": "konzentrieren связано с сосредоточением.",
+    "usage": "После auf используется Akkusativ."
   }
 },
 {
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "gehen ___", "ru": "идти о чём-то (речь идёт)" },
+  "category": "Verben mit Präpositionen A2",
+  "question": { "de": "sich kümmern ___", "ru": "заботиться о ком-то" },
   "answers": [
     {"text":"um","correct":true},
     {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "gehen um + A",
-    "translation": "речь идёт о чём-то",
-    "example": "In dem Film geht es um Geld.",
-    "example_ru": "В этом фильме речь идёт о деньгах.",
-    "etymology": "gehen um используется для темы разговора.",
-    "usage": "После um используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "handeln ___", "ru": "идти о чём-то (содержать)" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"um","correct":false},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false}
-  ],
-  "info": {
-    "phrase": "handeln von + D",
-    "translation": "идти о чём-то",
-    "example": "Das Märchen handelt von Gut und Böse.",
-    "example_ru": "Сказка рассказывает о добре и зле.",
-    "etymology": "handeln ursprünglich означает действовать.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "halten ___", "ru": "считать чем-то" },
-  "answers": [
-    {"text":"für","correct":true},
-    {"text":"von","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "halten für + A",
-    "translation": "считать чем-то",
-    "example": "Ich halte das für keine gute Idee.",
-    "example_ru": "Я считаю это плохой идеей.",
-    "etymology": "halten ursprünglich означает держать.",
-    "usage": "После für используется Akkusativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "halten ___", "ru": "думать о чём-то" },
-  "answers": [
-    {"text":"von","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "halten von + D",
-    "translation": "думать о чём-то",
-    "example": "Kinder halten nicht viel von Ordnung.",
-    "example_ru": "Дети не очень любят порядок.",
-    "etymology": "halten von используется для выражения мнения.",
-    "usage": "После von используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "kommen ___", "ru": "доходить до чего-то" },
-  "answers": [
-    {"text":"zu","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "kommen zu + D",
-    "translation": "доходить до чего-то",
-    "example": "In der Besprechung kam es zu einem Streit.",
-    "example_ru": "На совещании дошло до спора.",
-    "etymology": "kommen означает приходить.",
-    "usage": "После zu используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "leiden ___", "ru": "страдать от болезни" },
-  "answers": [
-    {"text":"an","correct":true},
-    {"text":"unter","correct":false},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false}
-  ],
-  "info": {
-    "phrase": "leiden an + D",
-    "translation": "страдать от болезни",
-    "example": "Viele Manager leiden an Burn-out.",
-    "example_ru": "Многие менеджеры страдают от выгорания.",
-    "etymology": "leiden означает страдать.",
-    "usage": "После an используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "leiden ___", "ru": "страдать из-за чего-то" },
-  "answers": [
-    {"text":"unter","correct":true},
     {"text":"an","correct":false},
-    {"text":"für","correct":false},
     {"text":"über","correct":false}
   ],
   "info": {
-    "phrase": "leiden unter + D",
-    "translation": "страдать из-за чего-то",
-    "example": "Viele Menschen leiden unter Schlafproblemen.",
-    "example_ru": "Многие люди страдают из-за проблем со сном.",
-    "etymology": "leiden unter используется для обстоятельств.",
-    "usage": "После unter используется Dativ."
-  }
-},
-{
-  "category": "Verben mit Präpositionen B2+",
-  "question": { "de": "riechen ___", "ru": "пахнуть чем-то" },
-  "answers": [
-    {"text":"nach","correct":true},
-    {"text":"für","correct":false},
-    {"text":"über","correct":false},
-    {"text":"an","correct":false}
-  ],
-  "info": {
-    "phrase": "riechen nach + D",
-    "translation": "пахнуть чем-то",
-    "example": "Hier riecht es nach Kuchen.",
-    "example_ru": "Здесь пахнет пирогом.",
-    "etymology": "riechen означает чувствовать запах.",
-    "usage": "После nach используется Dativ."
+    "phrase": "sich kümmern um + A",
+    "translation": "заботиться о ком-то",
+    "example": "Im Pflegeheim kümmert man sich um alte Leute, die krank sind.",
+    "example_ru": "В доме престарелых заботятся о пожилых людях, которые больны.",
+    "etymology": "kümmern связано с заботой и уходом.",
+    "usage": "После um используется Akkusativ."
   }
 }
 ]
