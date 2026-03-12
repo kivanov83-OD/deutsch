@@ -208,7 +208,7 @@ function renderQuestion() {
     const node = els.template.content.firstElementChild.cloneNode(true);
     node.querySelector('.answer-letter').textContent = String.fromCharCode(65 + index);
     node.querySelector('.answer-text').textContent = answer.text;
-    node.querySelector('.answer-caption').textContent = 'Выбери предлог';
+    //node.querySelector('.answer-caption').textContent = 'Выбери предлог';
     node.addEventListener('click', () => handleAnswerClick(answer, index));
     els.answersList.appendChild(node);
   });
