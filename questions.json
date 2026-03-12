@@ -2184,18 +2184,18 @@
     "ru": "зависимый от чего-то"
   },
   "answers": [
-    { "text": "von", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "auf", "correct": false }
+    {"text":"von","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"auf","correct":false}
   ],
   "info": {
     "phrase": "abhängig von + D",
     "translation": "зависимый от чего-то",
     "example": "Liza Minelli war vom Alkohol abhängig.",
     "example_ru": "Лайза Минелли была зависима от алкоголя.",
-    "etymology": "Прилагательное abhängig обычно употребляется с предлогом von. Эту связку лучше запоминать как одно целое.",
-    "usage": "Употребляется, когда речь идёт о зависимости от человека, вещества, обстоятельств или условий. После von используется Dativ."
+    "etymology": "Прилагательное abhängig почти всегда употребляется с предлогом von.",
+    "usage": "Используется, когда говорят о зависимости от человека, вещества или обстоятельства. После von употребляется Dativ."
   }
 },
 {
@@ -2205,18 +2205,18 @@
     "ru": "приятный для кого-то"
   },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "von", "correct": false },
-    { "text": "bei", "correct": false },
-    { "text": "über", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"von","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"mit","correct":false}
   ],
   "info": {
     "phrase": "angenehm für + A",
     "translation": "приятный для кого-то",
     "example": "Die Massage war sehr angenehm für ihn.",
     "example_ru": "Массаж был очень приятным для него.",
-    "etymology": "angenehm часто сочетается с für, когда указывается, для кого что-то приятно.",
-    "usage": "Используется, когда нужно сказать, что что-то приятно, удобно или полезно для кого-то. После für употребляется Akkusativ."
+    "etymology": "angenehm часто употребляется с für, когда указывается человек.",
+    "usage": "Используется, чтобы сказать, что что-то приятно или удобно для кого-то. После für используется Akkusativ."
   }
 },
 {
@@ -2226,39 +2226,39 @@
     "ru": "уважаемый у кого-то"
   },
   "answers": [
-    { "text": "bei", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "an", "correct": false }
+    {"text":"bei","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "angesehen bei + D",
-    "translation": "уважаемый, пользующийся авторитетом у кого-то",
+    "translation": "уважаемый у кого-то",
     "example": "Der Pfarrer war bei allen Kirchgängern hoch angesehen.",
-    "example_ru": "Священник пользовался большим уважением у всех прихожан.",
-    "etymology": "angesehen в этом значении связано с общественным мнением и часто употребляется с bei.",
-    "usage": "Употребляется, когда хотят показать репутацию человека в какой-то группе. После bei нужен Dativ."
+    "example_ru": "Священник пользовался большим уважением у прихожан.",
+    "etymology": "angesehen bei описывает репутацию среди людей.",
+    "usage": "Используется, когда говорят о хорошем мнении группы людей. После bei используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
     "de": "angewiesen ___",
-    "ru": "зависимый от чего-то, нуждающийся в чём-то"
+    "ru": "зависимый от чего-то"
   },
   "answers": [
-    { "text": "auf", "correct": true },
-    { "text": "von", "correct": false },
-    { "text": "zu", "correct": false },
-    { "text": "für", "correct": false }
+    {"text":"auf","correct":true},
+    {"text":"von","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"zu","correct":false}
   ],
   "info": {
     "phrase": "angewiesen auf + A",
-    "translation": "зависимый от чего-то, нуждающийся в чём-то",
+    "translation": "зависимый от чего-то",
     "example": "Kleinkinder sind auf die Geduld ihrer Eltern angewiesen.",
-    "example_ru": "Маленькие дети зависят от терпения своих родителей.",
-    "etymology": "Связка angewiesen auf очень устойчивая и часто встречается в речи и текстах.",
-    "usage": "Употребляется, когда кто-то не может обойтись без помощи, ресурса или условия. После auf используется Akkusativ."
+    "example_ru": "Маленькие дети зависят от терпения родителей.",
+    "etymology": "angewiesen auf — очень устойчивая конструкция.",
+    "usage": "Используется, когда кто-то не может обойтись без чего-то. После auf используется Akkusativ."
   }
 },
 {
@@ -2268,18 +2268,18 @@
     "ru": "злой на кого-то"
   },
   "answers": [
-    { "text": "auf", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"von","correct":false},
+    {"text":"bei","correct":false}
   ],
   "info": {
     "phrase": "ärgerlich auf + A",
     "translation": "злой на кого-то",
     "example": "Wegen der schlechten Noten war der Schüler ärgerlich auf den Lehrer.",
     "example_ru": "Из-за плохих оценок ученик злился на учителя.",
-    "etymology": "ärgerlich auf относится к человеку, на которого направлен гнев.",
-    "usage": "Используется, когда злость направлена на конкретного человека. После auf употребляется Akkusativ."
+    "etymology": "ärgerlich auf относится к человеку, который вызывает злость.",
+    "usage": "Используется, когда злость направлена на человека. После auf используется Akkusativ."
   }
 },
 {
@@ -2289,18 +2289,18 @@
     "ru": "злой из-за чего-то"
   },
   "answers": [
-    { "text": "über", "correct": true },
-    { "text": "auf", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "an", "correct": false }
+    {"text":"über","correct":true},
+    {"text":"auf","correct":false},
+    {"text":"von","correct":false},
+    {"text":"bei","correct":false}
   ],
   "info": {
     "phrase": "ärgerlich über + A",
-    "translation": "злой, раздражённый из-за чего-то",
+    "translation": "злой из-за чего-то",
     "example": "Andi war ärgerlich über seine schlechte Leistung.",
     "example_ru": "Анди злился из-за своего плохого результата.",
-    "etymology": "ärgerlich über употребляется, когда причина раздражения — событие, факт или ситуация.",
-    "usage": "Используется для обозначения раздражения или злости по поводу чего-то. После über нужен Akkusativ."
+    "etymology": "ärgerlich über используется для причины раздражения.",
+    "usage": "Используется, когда злость вызвана событием или ситуацией. После über используется Akkusativ."
   }
 },
 {
@@ -2310,18 +2310,18 @@
     "ru": "дружить с кем-то"
   },
   "answers": [
-    { "text": "mit", "correct": true },
-    { "text": "bei", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "an", "correct": false }
+    {"text":"mit","correct":true},
+    {"text":"bei","correct":false},
+    {"text":"von","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "befreundet mit + D",
-    "translation": "быть в дружеских отношениях с кем-то",
+    "translation": "дружить с кем-то",
     "example": "Der Politiker ist mit der ganzen Welt befreundet.",
     "example_ru": "Этот политик дружит со всем миром.",
-    "etymology": "befreundet тесно связано со словом Freund и обычно употребляется с mit.",
-    "usage": "Употребляется, когда говорится о дружбе или хороших отношениях с кем-то. После mit нужен Dativ."
+    "etymology": "befreundet связано со словом Freund.",
+    "usage": "Используется для дружеских отношений. После mit используется Dativ."
   }
 },
 {
@@ -2331,18 +2331,39 @@
     "ru": "в восторге от чего-то"
   },
   "answers": [
-    { "text": "von", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "auf", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"von","correct":true},
+    {"text":"für","correct":false},
+    {"text":"auf","correct":false},
+    {"text":"bei","correct":false}
   ],
   "info": {
     "phrase": "begeistert von + D",
     "translation": "в восторге от чего-то",
     "example": "Die Touristen sind begeistert von der unberührten Natur.",
     "example_ru": "Туристы в восторге от нетронутой природы.",
-    "etymology": "begeistert von — очень частая готовая модель в немецком языке.",
-    "usage": "Употребляется, когда кто-то очень впечатлён или восхищён чем-то. После von нужен Dativ."
+    "etymology": "begeistert von — устойчивое сочетание.",
+    "usage": "Используется, когда кто-то очень впечатлён чем-то. После von используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "behilflich ___",
+    "ru": "помогать в чём-то"
+  },
+  "answers": [
+    {"text":"bei","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"von","correct":false}
+  ],
+  "info": {
+    "phrase": "behilflich bei + D",
+    "translation": "помогать в чём-то",
+    "example": "Der Vater ist behilflich beim Wechseln des Fahrradreifens.",
+    "example_ru": "Отец помогает при замене велосипедной шины.",
+    "etymology": "behilflich связано со словом Hilfe.",
+    "usage": "Используется, когда кто-то помогает при выполнении действия. После bei используется Dativ."
   }
 },
 {
@@ -2352,18 +2373,18 @@
     "ru": "известный чем-то"
   },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "bei", "correct": false },
-    { "text": "von", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"von","correct":false}
   ],
   "info": {
     "phrase": "bekannt für + A",
     "translation": "известный чем-то",
     "example": "Die Schwaben sind bekannt für ihre Sparsamkeit.",
     "example_ru": "Швабы известны своей бережливостью.",
-    "etymology": "bekannt für употребляется, когда называют признак, качество или заслугу.",
-    "usage": "Используется, чтобы сказать, чем кто-то или что-то известен. После für ставится Akkusativ."
+    "etymology": "bekannt für используется для указания качества или причины известности.",
+    "usage": "После für используется Akkusativ. Указывает, чем именно кто-то или что-то известен."
   }
 },
 {
@@ -2373,18 +2394,102 @@
     "ru": "знакомый с кем-то"
   },
   "answers": [
-    { "text": "mit", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "bei", "correct": false },
-    { "text": "an", "correct": false }
+    {"text":"mit","correct":true},
+    {"text":"für","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"von","correct":false}
   ],
   "info": {
     "phrase": "bekannt mit + D",
     "translation": "знакомый с кем-то",
     "example": "Der Bürgermeister ist mit vielen Prominenten bekannt.",
     "example_ru": "Бургомистр знаком со многими знаменитостями.",
-    "etymology": "bekannt mit указывает не на славу, а на знакомство или личную связь.",
-    "usage": "Употребляется, когда речь идёт о знакомстве с людьми. После mit нужен Dativ."
+    "etymology": "bekannt mit относится к знакомству между людьми.",
+    "usage": "Используется, когда речь идёт о личных знакомствах. После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "beliebt ___",
+    "ru": "популярный у кого-то"
+  },
+  "answers": [
+    {"text":"bei","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "beliebt bei + D",
+    "translation": "популярный у кого-то",
+    "example": "Science-Fiction-Geschichten sind beliebt bei Jung und Alt.",
+    "example_ru": "Научно-фантастические истории популярны у молодых и старых.",
+    "etymology": "beliebt bei описывает популярность среди группы людей.",
+    "usage": "Используется, когда говорят о популярности среди людей. После bei используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "bereit ___",
+    "ru": "готовый к чему-то"
+  },
+  "answers": [
+    {"text":"zu","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "bereit zu + D",
+    "translation": "готовый к чему-то",
+    "example": "Sie ist bereit zu Veränderungen ihres Lebensstils.",
+    "example_ru": "Она готова к изменениям своего образа жизни.",
+    "etymology": "bereit zu указывает на готовность к действию или решению.",
+    "usage": "Используется, когда кто-то готов что-то сделать или принять изменения. После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "beschäftigt ___",
+    "ru": "занятый чем-то"
+  },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"bei","correct":false},
+    {"text":"zu","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "beschäftigt mit + D",
+    "translation": "занятый чем-то",
+    "example": "Martha ist montags beschäftigt mit dem Hausputz.",
+    "example_ru": "По понедельникам Марта занята уборкой дома.",
+    "etymology": "beschäftigt mit связано с занятостью каким-то делом.",
+    "usage": "Используется, когда человек выполняет какую-то работу или занят деятельностью. После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "beteiligt ___",
+    "ru": "участвующий в чём-то"
+  },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "beteiligt an + D",
+    "translation": "участвующий в чём-то",
+    "example": "Philipp war an allen Torchancen des Fußballspiels beteiligt.",
+    "example_ru": "Филипп участвовал во всех голевых моментах футбольного матча.",
+    "etymology": "beteiligt связано со словом Teil (часть).",
+    "usage": "Используется, когда кто-то принимает участие в событии или процессе. После an используется Dativ."
   }
 },
 {
@@ -2394,18 +2499,18 @@
     "ru": "обеспокоенный чем-то"
   },
   "answers": [
-    { "text": "über", "correct": true },
-    { "text": "vor", "correct": false },
-    { "text": "an", "correct": false },
-    { "text": "zu", "correct": false }
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"zu","correct":false}
   ],
   "info": {
     "phrase": "beunruhigt über + A",
     "translation": "обеспокоенный чем-то",
     "example": "Die Deutschen waren beunruhigt über die Bankenkrise.",
     "example_ru": "Немцы были обеспокоены банковским кризисом.",
-    "etymology": "beunruhigt über часто используется, когда повод для тревоги — событие или ситуация.",
-    "usage": "Употребляется, если кто-то обеспокоен каким-то фактом, новостью или развитием событий. После über употребляется Akkusativ."
+    "etymology": "beunruhigt происходит от слова Ruhe (спокойствие).",
+    "usage": "Используется, когда кто-то обеспокоен событием или ситуацией. После über используется Akkusativ."
   }
 },
 {
@@ -2415,39 +2520,60 @@
     "ru": "знаменитый чем-то"
   },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"von","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "berühmt für + A",
     "translation": "знаменитый чем-то",
     "example": "Pierce Brosnan war bekannt für seine Rolle als James Bond.",
     "example_ru": "Пирс Броснан был известен своей ролью Джеймса Бонда.",
-    "etymology": "berühmt für — типичная модель для указания причины известности.",
-    "usage": "Используется, когда называют, за что человек или вещь знамениты. После für ставится Akkusativ."
+    "etymology": "berühmt для указания причины известности.",
+    "usage": "Используется, когда говорят, за что человек стал знаменит. После für используется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
     "de": "besorgt ___",
-    "ru": "обеспокоенный о ком-то или о чём-то"
+    "ru": "обеспокоенный о ком-то"
   },
   "answers": [
-    { "text": "um", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "für", "correct": false }
+    {"text":"um","correct":true},
+    {"text":"über","correct":false},
+    {"text":"von","correct":false},
+    {"text":"für","correct":false}
   ],
   "info": {
     "phrase": "besorgt um + A",
-    "translation": "обеспокоенный о ком-то или о чём-то",
+    "translation": "обеспокоенный о ком-то",
     "example": "Die Mutter war besorgt um ihr krankes Kind.",
     "example_ru": "Мать беспокоилась о своём больном ребёнке.",
-    "etymology": "besorgt um — устойчивая модель для заботы и тревоги за кого-то.",
-    "usage": "Употребляется, когда кто-то переживает за человека, животное или важную ситуацию. После um нужен Akkusativ."
+    "etymology": "besorgt связано со словом Sorge (забота).",
+    "usage": "Используется, когда человек переживает за кого-то. После um используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "böse ___",
+    "ru": "злой на кого-то"
+  },
+  "answers": [
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"von","correct":false}
+  ],
+  "info": {
+    "phrase": "böse auf + A",
+    "translation": "злой на кого-то",
+    "example": "Lisa war böse auf den Nikolaus, weil er ihr keine Schokolade gebracht hatte.",
+    "example_ru": "Лиза злилась на Николая, потому что он не принёс ей шоколад.",
+    "etymology": "böse auf используется, когда злость направлена на человека.",
+    "usage": "Используется для выражения злости на кого-то. После auf используется Akkusativ."
   }
 },
 {
@@ -2457,18 +2583,39 @@
     "ru": "благодарный за что-то"
   },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "an", "correct": false },
-    { "text": "von", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false},
+    {"text":"von","correct":false}
   ],
   "info": {
     "phrase": "dankbar für + A",
     "translation": "благодарный за что-то",
     "example": "Die Polizei ist dankbar für jeden Hinweis auf den Diebstahl.",
     "example_ru": "Полиция благодарна за любую информацию о краже.",
-    "etymology": "dankbar für связано с указанием причины благодарности.",
-    "usage": "Используется, когда нужно сказать, за что именно кто-то благодарен. После für ставится Akkusativ."
+    "etymology": "dankbar связано со словом Dank и указывает на причину благодарности.",
+    "usage": "Используется, когда говорят, за что именно кто-то благодарен. После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "eifersüchtig ___",
+    "ru": "ревнивый, завистливый к кому-то"
+  },
+  "answers": [
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "eifersüchtig auf + A",
+    "translation": "ревнивый, завистливый к кому-то",
+    "example": "Kleine Kinder sind oft eifersüchtig auf ihre älteren Geschwister, weil sie mehr Freiheiten haben.",
+    "example_ru": "Маленькие дети часто ревнуют к своим старшим братьям и сёстрам, потому что у них больше свободы.",
+    "etymology": "eifersüchtig auf — устойчивая модель для ревности и зависти к объекту.",
+    "usage": "Используется, когда кто-то ревнует или завидует кому-то. После auf употребляется Akkusativ."
   }
 },
 {
@@ -2478,39 +2625,60 @@
     "ru": "согласный с кем-то или чем-то"
   },
   "answers": [
-    { "text": "mit", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "für", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"bei","correct":false}
   ],
   "info": {
     "phrase": "einverstanden mit + D",
     "translation": "согласный с кем-то или чем-то",
     "example": "Bist du einverstanden mit einer Reise in die Berge?",
     "example_ru": "Ты согласен на поездку в горы?",
-    "etymology": "einverstanden mit — очень частая разговорная конструкция для согласия.",
-    "usage": "Употребляется для выражения согласия с предложением, решением или человеком. После mit нужен Dativ."
+    "etymology": "einverstanden mit — частая разговорная конструкция для согласия.",
+    "usage": "Используется, когда человек согласен с предложением, решением или человеком. После mit используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
     "de": "entschlossen ___",
-    "ru": "решительный в чём-то"
+    "ru": "решительно настроенный на что-то"
   },
   "answers": [
-    { "text": "zu", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "an", "correct": false },
-    { "text": "mit", "correct": false }
+    {"text":"zu","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
   ],
   "info": {
     "phrase": "entschlossen zu + D",
-    "translation": "решительный, настроенный на что-то",
+    "translation": "решительно настроенный на что-то",
     "example": "Der Sportler war entschlossen zum Sieg.",
     "example_ru": "Спортсмен был решительно настроен на победу.",
-    "etymology": "entschlossen zu указывает на направленность воли к цели.",
-    "usage": "Употребляется, когда человек твёрдо настроен на цель или действие. После zu употребляется Dativ."
+    "etymology": "entschlossen связано с твёрдым решением и направленностью к цели.",
+    "usage": "Используется, когда кто-то твёрдо настроен на определённую цель. После zu употребляется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": {
+    "de": "entsetzt ___",
+    "ru": "потрясённый чем-то"
+  },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"auf","correct":false}
+  ],
+  "info": {
+    "phrase": "entsetzt über + A",
+    "translation": "потрясённый чем-то",
+    "example": "Die ganze Welt war entsetzt über das Hochwasser in Pakistan.",
+    "example_ru": "Весь мир был потрясён наводнением в Пакистане.",
+    "etymology": "entsetzt über употребляется, когда сильная эмоция вызвана событием или фактом.",
+    "usage": "Используется, когда кто-то шокирован или потрясён чем-то. После über употребляется Akkusativ."
   }
 },
 {
@@ -2520,291 +2688,870 @@
     "ru": "разочарованный чем-то"
   },
   "answers": [
-    { "text": "von", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "zu", "correct": false }
+    {"text":"von","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"zu","correct":false}
   ],
   "info": {
     "phrase": "enttäuscht von + D",
     "translation": "разочарованный чем-то",
     "example": "Die Fans waren enttäuscht vom Ergebnis des Spiels.",
-    "example_ru": "Фанаты были разочарованы результатом игры.",
-    "etymology": "enttäuscht von употребляется, когда разочарование вызвано чем-то конкретным.",
-    "usage": "Используется, если кто-то разочарован результатом, поведением или событием. После von нужен Dativ."
+    "example_ru": "Болельщики были разочарованы результатом игры.",
+    "etymology": "enttäuscht von связывает разочарование с конкретным источником.",
+    "usage": "Используется, когда кто-то разочарован событием, результатом или поведением. После von используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
     "de": "erfreut ___",
-    "ru": "обрадованный чем-то"
+    "ru": "обрадованный чему-то"
   },
   "answers": [
-    { "text": "über", "correct": true },
-    { "text": "von", "correct": false },
-    { "text": "an", "correct": false },
-    { "text": "zu", "correct": false }
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"an","correct":false},
+    {"text":"zu","correct":false}
   ],
   "info": {
     "phrase": "erfreut über + A",
     "translation": "обрадованный чему-то",
-    "example": "Der Großvater war hocherfreut über die Geburt seines Enkels.",
-    "example_ru": "Дедушка был очень рад рождению своего внука.",
-    "etymology": "erfreut über типично употребляется, когда радость вызвана событием или фактом.",
-    "usage": "Употребляется, когда кто-то рад или доволен чем-то. После über используется Akkusativ."
+    "example": "Der Großeltern waren hocherfreut über die Geburt ihres Enkelsohnes.",
+    "example_ru": "Бабушка и дедушка были очень рады рождению своего внука.",
+    "etymology": "erfreut über употребляется, когда радость вызвана событием или новостью.",
+    "usage": "Используется, когда кто-то рад или доволен из-за какого-то события. После über употребляется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
-    "de": "frei ___",
-    "ru": "свободный от чего-то"
+    "de": "erstaunt ___",
+    "ru": "удивлённый чем-то"
   },
   "answers": [
-    { "text": "von", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "über", "correct": false },
-    { "text": "mit", "correct": false }
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "erstaunt über + A",
+    "translation": "удивлённый чем-то",
+    "example": "Wer wäre nicht erstaunt über Schnee im September?",
+    "example_ru": "Кто бы не удивился снегу в сентябре?",
+    "etymology": "erstaunt über используется для реакции удивления на событие или факт.",
+    "usage": "Используется, когда кто-то удивлён ситуацией, новостью или явлением. После über употребляется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "fertig ___", "ru": "закончить что-то, быть готовым с чем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"bei","correct":false}
+  ],
+  "info": {
+    "phrase": "fertig mit + D",
+    "translation": "закончить что-то",
+    "example": "Nach nur zwanzig Minuten war er mit der schriftlichen Prüfung fertig.",
+    "example_ru": "Всего через двадцать минут он закончил письменный экзамен.",
+    "etymology": "fertig mit — устойчивая конструкция для завершения действия.",
+    "usage": "Используется, когда действие завершено. После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "frei ___", "ru": "свободный от чего-то" },
+  "answers": [
+    {"text":"von","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false}
   ],
   "info": {
     "phrase": "frei von + D",
     "translation": "свободный от чего-то",
     "example": "Biologische Nahrungsmittel sind frei von chemischen Zusatzstoffen.",
-    "example_ru": "Биологические продукты питания свободны от химических добавок.",
-    "etymology": "frei von — готовая модель для отсутствия чего-то нежелательного.",
-    "usage": "Используется, когда говорят, что в чём-то нет определённого вещества, качества или проблемы. После von нужен Dativ."
+    "example_ru": "Биологические продукты свободны от химических добавок.",
+    "etymology": "frei von используется для обозначения отсутствия чего-то.",
+    "usage": "После von используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "freundlich ___",
-    "ru": "вежливый, дружелюбный к кому-то"
-  },
+  "question": { "de": "freundlich ___", "ru": "дружелюбный к кому-то" },
   "answers": [
-    { "text": "zu", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "für", "correct": false },
-    { "text": "über", "correct": false }
+    {"text":"zu","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"bei","correct":false},
+    {"text":"über","correct":false}
   ],
   "info": {
     "phrase": "freundlich zu + D",
-    "translation": "дружелюбный, приветливый к кому-то",
+    "translation": "дружелюбный к кому-то",
     "example": "Ein Chef sollte stets freundlich zu Kunden und Mitarbeitern sein.",
-    "example_ru": "Начальник должен всегда быть дружелюбным к клиентам и сотрудникам.",
-    "etymology": "freundlich zu описывает отношение к людям и обычно употребляется с zu.",
-    "usage": "Употребляется, когда описывают хорошее отношение к человеку или группе людей. После zu нужен Dativ."
+    "example_ru": "Начальник должен быть дружелюбным к клиентам и сотрудникам.",
+    "etymology": "freundlich zu описывает отношение к людям.",
+    "usage": "После zu используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "geeignet ___",
-    "ru": "подходящий для чего-то"
-  },
+  "question": { "de": "froh ___", "ru": "рад чему-то" },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "zu", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "an", "correct": false }
+    {"text":"über","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"von","correct":false}
+  ],
+  "info": {
+    "phrase": "froh über + A",
+    "translation": "рад чему-то",
+    "example": "Alle Kollegen waren froh über das gute Jahresergebnis der Firma.",
+    "example_ru": "Все коллеги были рады хорошему годовому результату фирмы.",
+    "etymology": "froh über используется для выражения радости по поводу события.",
+    "usage": "После über используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "geeignet ___", "ru": "подходящий для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "geeignet für + A",
     "translation": "подходящий для чего-то",
     "example": "Musicals sind gut geeignet für einen unterhaltsamen Abend.",
     "example_ru": "Мюзиклы хорошо подходят для приятного вечера.",
-    "etymology": "geeignet für указывает на цель, назначение или область применения.",
-    "usage": "Используется, когда говорят, для чего что-то подходит. После für употребляется Akkusativ."
+    "etymology": "geeignet für указывает на назначение.",
+    "usage": "После für используется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "gespannt ___",
-    "ru": "с нетерпением ждать чего-то"
-  },
+  "question": { "de": "genug ___", "ru": "достаточно для чего-то" },
   "answers": [
-    { "text": "auf", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "zu", "correct": false },
-    { "text": "mit", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"von","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"bei","correct":false}
+  ],
+  "info": {
+    "phrase": "genug für + A",
+    "translation": "достаточно для чего-то",
+    "example": "Es ist 19.00 Uhr. Wir haben genug für heute gearbeitet.",
+    "example_ru": "Сейчас 19:00. Мы достаточно поработали на сегодня.",
+    "etymology": "genug für используется для указания достаточности.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "gespannt ___", "ru": "с нетерпением ждать чего-то" },
+  "answers": [
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "gespannt auf + A",
-    "translation": "с нетерпением ждать чего-то, быть в предвкушении",
+    "translation": "ждать с интересом",
     "example": "Am Heiligen Abend warten Kinder gespannt auf den Weihnachtsmann.",
     "example_ru": "В сочельник дети с нетерпением ждут Деда Мороза.",
-    "etymology": "gespannt auf часто употребляется, когда человек чего-то ожидает с интересом.",
-    "usage": "Используется для ожидания события, новости или встречи. После auf нужен Akkusativ."
+    "etymology": "gespannt auf используется для ожидания события.",
+    "usage": "После auf используется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "interessiert ___",
-    "ru": "интересующийся чем-то"
-  },
+  "question": { "de": "gewöhnt ___", "ru": "привыкший к чему-то" },
   "answers": [
-    { "text": "an", "correct": true },
-    { "text": "für", "correct": false },
-    { "text": "über", "correct": false },
-    { "text": "von", "correct": false }
+    {"text":"an","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "gewöhnt an + A",
+    "translation": "привыкший к чему-то",
+    "example": "Eisbären sind an die Kälte gewöhnt.",
+    "example_ru": "Белые медведи привыкли к холоду.",
+    "etymology": "gewöhnt an описывает привыкание.",
+    "usage": "После an используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "glücklich ___", "ru": "счастлив из-за чего-то" },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "glücklich über + A",
+    "translation": "счастлив из-за чего-то",
+    "example": "Das Brautpaar war glücklich über die vielen Hochzeitsgeschenke.",
+    "example_ru": "Молодожёны были счастливы из-за множества свадебных подарков.",
+    "etymology": "glücklich über описывает причину счастья.",
+    "usage": "После über используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "gut ___", "ru": "хорош в чём-то" },
+  "answers": [
+    {"text":"in","correct":true},
+    {"text":"für","correct":false},
+    {"text":"zu","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "gut in + D",
+    "translation": "хорош в чём-то",
+    "example": "Gauß war schon als Kind gut im Rechnen.",
+    "example_ru": "Гаусс был хорош в математике уже в детстве.",
+    "etymology": "gut in используется для описания способности.",
+    "usage": "После in используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "gut ___", "ru": "добрый к кому-то" },
+  "answers": [
+    {"text":"zu","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "gut zu + D",
+    "translation": "добрый к кому-то",
+    "example": "Mutter Theresa war immer gut zu allen Menschen.",
+    "example_ru": "Мать Тереза всегда была добра ко всем людям.",
+    "etymology": "gut zu описывает отношение к людям.",
+    "usage": "После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "interessiert ___", "ru": "заинтересованный в чём-то" },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"für","correct":false},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false}
   ],
   "info": {
     "phrase": "interessiert an + D",
-    "translation": "интересующийся чем-то",
+    "translation": "заинтересованный в чём-то",
     "example": "Christian Wulf war von Beginn an sehr interessiert an der Position des Bundespräsidenten.",
     "example_ru": "Кристиан Вульф с самого начала очень интересовался должностью федерального президента.",
-    "etymology": "interessiert an — стандартная конструкция для выражения интереса.",
-    "usage": "Употребляется, когда человек проявляет интерес к теме, предмету или должности. После an нужен Dativ."
+    "etymology": "interessiert an — стандартная конструкция для интереса.",
+    "usage": "После an используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "müde ___",
-    "ru": "уставший от чего-то"
-  },
+  "question": { "de": "höflich ___", "ru": "вежливый к кому-то" },
   "answers": [
-    { "text": "von", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "für", "correct": false },
-    { "text": "zu", "correct": false }
+    {"text":"zu","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "höflich zu + D",
+    "translation": "вежливый к кому-то",
+    "example": "Ein Kellner sollte stets höflich zu den Hotelgästen sein.",
+    "example_ru": "Официант должен быть всегда вежливым к гостям отеля.",
+    "etymology": "höflich zu используется для описания поведения по отношению к людям.",
+    "usage": "После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "leicht ___", "ru": "лёгкий для кого-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "leicht für + A",
+    "translation": "лёгкий для кого-то",
+    "example": "Die Übung war zu leicht für mich.",
+    "example_ru": "Это упражнение было слишком лёгким для меня.",
+    "etymology": "leicht für указывает на субъекта, для которого что-то легко.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "lieb ___", "ru": "добрый к кому-то" },
+  "answers": [
+    {"text":"zu","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "lieb zu + D",
+    "translation": "добрый к кому-то",
+    "example": "„Seid lieb zu eurem Vater!“, sagte die Mutter.",
+    "example_ru": "«Будьте добры к своему отцу!», — сказала мать.",
+    "etymology": "lieb zu используется для описания доброго отношения.",
+    "usage": "После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "misstrauisch ___", "ru": "подозрительный по отношению к кому-то" },
+  "answers": [
+    {"text":"gegenüber","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "misstrauisch gegenüber + D",
+    "translation": "подозрительный к кому-то",
+    "example": "Die alte Dame war misstrauisch gegenüber allen Fremden.",
+    "example_ru": "Пожилая дама подозрительно относилась ко всем незнакомцам.",
+    "etymology": "gegenüber часто используется для обозначения отношения к людям.",
+    "usage": "После gegenüber используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "müde ___", "ru": "уставший от чего-то" },
+  "answers": [
+    {"text":"von","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false}
   ],
   "info": {
     "phrase": "müde von + D",
     "translation": "уставший от чего-то",
     "example": "Lisa fühlte sich müde vom langen Warten.",
     "example_ru": "Лиза чувствовала себя уставшей от долгого ожидания.",
-    "etymology": "müde von связывает усталость с причиной или источником нагрузки.",
-    "usage": "Используется, когда хотят назвать причину усталости. После von нужен Dativ."
+    "etymology": "müde von используется для указания причины усталости.",
+    "usage": "После von используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "neidisch ___",
-    "ru": "завистливый к кому-то"
-  },
+  "question": { "de": "neidisch ___", "ru": "завидующий кому-то" },
   "answers": [
-    { "text": "auf", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "mit", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false}
   ],
   "info": {
     "phrase": "neidisch auf + A",
-    "translation": "завидовать кому-то, чему-то",
+    "translation": "завидующий кому-то",
     "example": "Rob war neidisch auf seinen erfolgreichen Bruder.",
     "example_ru": "Роб завидовал своему успешному брату.",
-    "etymology": "neidisch auf — очень частая связка для обозначения объекта зависти.",
-    "usage": "Употребляется, когда говорят, кому или чему завидуют. После auf употребляется Akkusativ."
+    "etymology": "neidisch auf указывает на объект зависти.",
+    "usage": "После auf используется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "sicher ___",
-    "ru": "защищённый от чего-то"
-  },
+  "question": { "de": "nett ___", "ru": "добрый к кому-то" },
   "answers": [
-    { "text": "vor", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "auf", "correct": false },
-    { "text": "mit", "correct": false }
+    {"text":"zu","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "nett zu + D",
+    "translation": "добрый к кому-то",
+    "example": "Seid nett zu euren Nachbarn.",
+    "example_ru": "Будьте добры к своим соседям.",
+    "etymology": "nett zu описывает дружелюбное отношение.",
+    "usage": "После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "neugierig ___", "ru": "любопытный к чему-то" },
+  "answers": [
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "neugierig auf + A",
+    "translation": "любопытный к чему-то",
+    "example": "Karla ist neugierig auf ihre Geburtstagsgeschenke.",
+    "example_ru": "Карла с любопытством ждёт свои подарки на день рождения.",
+    "etymology": "neugierig auf используется для ожидания чего-то интересного.",
+    "usage": "После auf используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "nützlich ___", "ru": "полезный для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "nützlich für + A",
+    "translation": "полезный для чего-то",
+    "example": "Ein Pflaster ist nützlich für kleine Verletzungen.",
+    "example_ru": "Пластырь полезен при небольших травмах.",
+    "etymology": "nützlich für указывает на назначение.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "reich ___", "ru": "богат чем-то" },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "reich an + D",
+    "translation": "богат чем-то",
+    "example": "Kartoffeln sind reich an Vitamin C.",
+    "example_ru": "Картофель богат витамином C.",
+    "etymology": "reich an используется для описания содержания.",
+    "usage": "После an используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "schädlich ___", "ru": "вредный для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "schädlich für + A",
+    "translation": "вредный для чего-то",
+    "example": "Zucker ist schädlich für die Zähne.",
+    "example_ru": "Сахар вреден для зубов.",
+    "etymology": "schädlich für указывает на объект вреда.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "schuld ___", "ru": "виноват в чём-то" },
+  "answers": [
+    {"text":"an","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "schuld an + D",
+    "translation": "виноват в чём-то",
+    "example": "Der Motorradfahrer war schuld an dem Unfall.",
+    "example_ru": "Мотоциклист был виноват в аварии.",
+    "etymology": "schuld an связывает человека с причиной события.",
+    "usage": "После an используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "schwierig ___", "ru": "сложный для кого-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "schwierig für + A",
+    "translation": "сложный для кого-то",
+    "example": "Ein Umzug ist immer schwierig für Kinder.",
+    "example_ru": "Переезд всегда сложен для детей.",
+    "etymology": "schwierig für указывает на человека, для которого что-то сложно.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "sicher ___", "ru": "в безопасности от чего-то" },
+  "answers": [
+    {"text":"vor","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
   ],
   "info": {
     "phrase": "sicher vor + D",
-    "translation": "защищённый от чего-то",
+    "translation": "в безопасности от чего-то",
     "example": "Hier im Haus sind wir sicher vor dem Sturm.",
-    "example_ru": "Здесь, в доме, мы защищены от шторма.",
-    "etymology": "sicher vor используется, когда говорят о защите от опасности.",
-    "usage": "Употребляется для выражения безопасности перед угрозой или опасностью. После vor нужен Dativ."
+    "example_ru": "Здесь в доме мы в безопасности от шторма.",
+    "etymology": "sicher vor используется для обозначения защиты.",
+    "usage": "После vor используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "typisch ___",
-    "ru": "типичный для кого-то или чего-то"
-  },
+  "question": { "de": "stolz ___", "ru": "гордый чем-то" },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "stolz auf + A",
+    "translation": "гордый чем-то",
+    "example": "Lothar ist sehr stolz auf seine Arbeit.",
+    "example_ru": "Лотар очень гордится своей работой.",
+    "etymology": "stolz auf указывает на объект гордости.",
+    "usage": "После auf используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "traurig ___", "ru": "грустный из-за чего-то" },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"von","correct":false},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "traurig über + A",
+    "translation": "грустный из-за чего-то",
+    "example": "Martha ist traurig über das schlechte Ergebnis ihrer Deutschprüfung.",
+    "example_ru": "Марта грустит из-за плохого результата экзамена по немецкому.",
+    "etymology": "traurig über используется для причины эмоции.",
+    "usage": "После über используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "typisch ___", "ru": "типичный для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false}
   ],
   "info": {
     "phrase": "typisch für + A",
-    "translation": "типичный для кого-то или чего-то",
+    "translation": "типичный для чего-то",
     "example": "Gestreifte Krawatten sind typisch für Politiker.",
     "example_ru": "Полосатые галстуки типичны для политиков.",
-    "etymology": "typisch für указывает на характерный признак группы или явления.",
-    "usage": "Используется, когда называют черту, характерную для человека, профессии, места или явления. После für ставится Akkusativ."
+    "etymology": "typisch für указывает на характерный признак.",
+    "usage": "После für используется Akkusativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "verheiratet ___",
-    "ru": "женат, замужем за кем-то"
-  },
+  "question": { "de": "überzeugt ___", "ru": "убеждённый в чём-то" },
   "answers": [
-    { "text": "mit", "correct": true },
-    { "text": "zu", "correct": false },
-    { "text": "von", "correct": false },
-    { "text": "auf", "correct": false }
+    {"text":"von","correct":true},
+    {"text":"über","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "überzeugt von + D",
+    "translation": "убеждённый в чём-то",
+    "example": "Der Richter war überzeugt von der Schuld des Angeklagten.",
+    "example_ru": "Судья был убеждён в виновности обвиняемого.",
+    "etymology": "überzeugt von указывает на внутреннюю уверенность.",
+    "usage": "После von используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unabhängig ___", "ru": "независимый от чего-то" },
+  "answers": [
+    {"text":"von","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "unabhängig von + D",
+    "translation": "независимый от чего-то",
+    "example": "Fitness ist unabhängig vom Alter.",
+    "example_ru": "Физическая форма не зависит от возраста.",
+    "etymology": "unabhängig von указывает на отсутствие зависимости.",
+    "usage": "После von используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unangenehm ___", "ru": "неприятный для кого-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "unangenehm für + A",
+    "translation": "неприятный для кого-то",
+    "example": "Ist ein Ultraschall unangenehm für das Baby?",
+    "example_ru": "Ультразвук неприятен для ребёнка?",
+    "etymology": "unangenehm für указывает на того, кому что-то неприятно.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unbeliebt ___", "ru": "непопулярный среди кого-то" },
+  "answers": [
+    {"text":"bei","correct":true},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "unbeliebt bei + D",
+    "translation": "непопулярный среди кого-то",
+    "example": "Die Deutschen sind unbeliebt bei den Österreichern.",
+    "example_ru": "Немцы непопулярны среди австрийцев.",
+    "etymology": "unbeliebt bei используется для группы людей.",
+    "usage": "После bei используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unerfahren ___", "ru": "неопытный в чём-то" },
+  "answers": [
+    {"text":"in","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "unerfahren in + D",
+    "translation": "неопытный в чём-то",
+    "example": "Wer 18 Jahre ist, der ist unerfahren im Autofahren.",
+    "example_ru": "Кто только 18 лет, тот неопытен в вождении.",
+    "etymology": "unerfahren in описывает отсутствие опыта.",
+    "usage": "После in используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unfreundlich ___", "ru": "невежливый к кому-то" },
+  "answers": [
+    {"text":"zu","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"bei","correct":false}
+  ],
+  "info": {
+    "phrase": "unfreundlich zu + D",
+    "translation": "невежливый к кому-то",
+    "example": "Manchmal sind Verkäuferinnen sehr unfreundlich zu ihren Kunden.",
+    "example_ru": "Иногда продавщицы очень невежливы к своим клиентам.",
+    "etymology": "unfreundlich zu описывает отношение к людям.",
+    "usage": "После zu используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "ungeeignet ___", "ru": "неподходящий для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "ungeeignet für + A",
+    "translation": "неподходящий для чего-то",
+    "example": "Sommerreifen sind ungeeignet für eine Fahrt bei Eis und Schnee.",
+    "example_ru": "Летние шины не подходят для поездки по льду и снегу.",
+    "etymology": "ungeeignet für указывает на неподходящую цель.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unglücklich ___", "ru": "несчастный из-за чего-то" },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"für","correct":false},
+    {"text":"von","correct":false}
+  ],
+  "info": {
+    "phrase": "unglücklich über + A",
+    "translation": "несчастный из-за чего-то",
+    "example": "Viele Frauen sind nach der Geburt des Babys unglücklich über ihre Figur.",
+    "example_ru": "Многие женщины после рождения ребёнка недовольны своей фигурой.",
+    "etymology": "unglücklich über указывает на причину недовольства.",
+    "usage": "После über используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "unzufrieden ___", "ru": "недовольный чем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "unzufrieden mit + D",
+    "translation": "недовольный чем-то",
+    "example": "85 % der Deutschen sind unzufrieden mit ihrer Arbeit.",
+    "example_ru": "85 % немцев недовольны своей работой.",
+    "etymology": "unzufrieden mit — классическая конструкция недовольства.",
+    "usage": "После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "verantwortlich ___", "ru": "ответственный за что-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false},
+    {"text":"an","correct":false}
+  ],
+  "info": {
+    "phrase": "verantwortlich für + A",
+    "translation": "ответственный за что-то",
+    "example": "Pollen und Staub sind oft verantwortlich für Allergien.",
+    "example_ru": "Пыльца и пыль часто ответственны за аллергию.",
+    "etymology": "verantwortlich für указывает на причину или ответственность.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "verheiratet ___", "ru": "женат / замужем за кем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"zu","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "verheiratet mit + D",
-    "translation": "женат, замужем за кем-то",
+    "translation": "женат / замужем за кем-то",
     "example": "Mein Großvater ist schon 50 Jahre mit meiner Großmutter verheiratet.",
     "example_ru": "Мой дедушка уже 50 лет женат на моей бабушке.",
-    "etymology": "verheiratet mit — стандартная семейная конструкция в немецком.",
-    "usage": "Употребляется, когда говорят, с кем человек состоит в браке. После mit нужен Dativ."
+    "etymology": "verheiratet mit — стандартная конструкция для обозначения брака.",
+    "usage": "Используется, когда говорят, с кем человек состоит в браке. После mit используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "zufrieden ___",
-    "ru": "довольный чем-то"
-  },
+  "question": { "de": "verliebt ___", "ru": "влюблённый в кого-то" },
   "answers": [
-    { "text": "mit", "correct": true },
-    { "text": "über", "correct": false },
-    { "text": "auf", "correct": false },
-    { "text": "von", "correct": false }
+    {"text":"in","correct":true},
+    {"text":"auf","correct":false},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false}
+  ],
+  "info": {
+    "phrase": "verliebt in + A",
+    "translation": "влюблённый в кого-то",
+    "example": "Er ist seit Jahren in seine Nachbarin verliebt.",
+    "example_ru": "Он уже много лет влюблён в свою соседку.",
+    "etymology": "verliebt in — типичная конструкция для романтического чувства.",
+    "usage": "Используется для выражения влюблённости. После in используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "verrückt ___", "ru": "без ума от чего-то" },
+  "answers": [
+    {"text":"nach","correct":true},
+    {"text":"für","correct":false},
+    {"text":"über","correct":false},
+    {"text":"auf","correct":false}
+  ],
+  "info": {
+    "phrase": "verrückt nach + D",
+    "translation": "без ума от чего-то",
+    "example": "Meine Tochter ist verrückt nach Schokolade.",
+    "example_ru": "Моя дочь без ума от шоколада.",
+    "etymology": "verrückt nach используется в разговорной речи для сильной симпатии.",
+    "usage": "После nach используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "vertraut ___", "ru": "знакомый с чем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"für","correct":false},
+    {"text":"zu","correct":false},
+    {"text":"über","correct":false}
+  ],
+  "info": {
+    "phrase": "vertraut mit + D",
+    "translation": "знакомый с чем-то",
+    "example": "Er ist mit den neuen Regeln vertraut.",
+    "example_ru": "Он знаком с новыми правилами.",
+    "etymology": "vertraut mit связано со знанием и опытом.",
+    "usage": "Используется, когда человек хорошо знаком с темой или системой. После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "zufrieden ___", "ru": "довольный чем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "zufrieden mit + D",
     "translation": "довольный чем-то",
     "example": "Das Nationalteam war zufrieden mit dem Ergebnis des Finalspiels.",
     "example_ru": "Национальная команда была довольна результатом финального матча.",
-    "etymology": "zufrieden mit — базовая и очень частая конструкция для выражения удовлетворения.",
-    "usage": "Используется, когда человек доволен результатом, качеством, ситуацией или человеком. После mit нужен Dativ."
+    "etymology": "zufrieden mit — очень частая конструкция в немецком.",
+    "usage": "Используется, когда человек доволен результатом или ситуацией. После mit используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": {
-    "de": "zuständig ___",
-    "ru": "ответственный за что-то"
-  },
+  "question": { "de": "zuständig ___", "ru": "ответственный за что-то" },
   "answers": [
-    { "text": "für", "correct": true },
-    { "text": "mit", "correct": false },
-    { "text": "an", "correct": false },
-    { "text": "bei", "correct": false }
+    {"text":"für","correct":true},
+    {"text":"mit","correct":false},
+    {"text":"über","correct":false},
+    {"text":"an","correct":false}
   ],
   "info": {
     "phrase": "zuständig für + A",
     "translation": "ответственный за что-то",
     "example": "Die Familienministerin ist zuständig für die Familienpolitik eines Staates.",
     "example_ru": "Министр по делам семьи отвечает за семейную политику государства.",
-    "etymology": "zuständig für обычно обозначает сферу ответственности.",
-    "usage": "Употребляется, когда нужно назвать область обязанностей, компетенции или ответственности. После für используется Akkusativ."
+    "etymology": "zuständig für связано с обязанностями и ответственностью.",
+    "usage": "Используется, когда называют сферу ответственности. После für используется Akkusativ."
   }
 }
 ]
