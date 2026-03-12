@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Угадай ответ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page-shell">
+    <header class="hero">
+      <div>
+        <span class="eyebrow">GitHub Pages Ready</span>
+        <h1>Угадай ответ</h1>
+        <p class="hero-text">
+          Лёгкий сайт-викторина без сервера. Вопросы, ответы и пояснения загружаются из отдельного файла <code>questions.json</code>.
+        </p>
+      </div>
+      <div class="hero-stats" aria-label="Статистика викторины">
+        <div class="stat-card">
+          <span class="stat-label">Категория</span>
+          <strong id="currentCategory">—</strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Счёт</span>
+          <strong><span id="scoreValue">0</span> / <span id="totalValue">0</span></strong>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Вопрос</span>
+          <strong><span id="currentIndex">0</span> / <span id="questionsCount">0</span></strong>
+        </div>
+      </div>
+    </header>
+
+    <main class="app-grid">
+      <section class="panel panel-left">
+        <div class="toolbar">
+          <div class="toolbar-group">
+            <label for="categorySelect" class="toolbar-label">Тема</label>
+            <select id="categorySelect" class="control"></select>
+          </div>
+
+          <div class="toolbar-actions">
+            <button id="shuffleBtn" class="btn btn-secondary" type="button">Перемешать</button>
+            <button id="resetBtn" class="btn btn-ghost" type="button">Сбросить</button>
+          </div>
+        </div>
+
+        <div class="progress-wrap" aria-hidden="true">
+          <div id="progressBar" class="progress-bar"></div>
+        </div>
+
+        <div class="question-card">
+          <div class="question-meta">
+            <span id="difficultyBadge" class="badge">—</span>
+            <span id="questionTag" class="tag">—</span>
+          </div>
+
+          <h2 id="questionTitle" class="question-title">Загрузка...</h2>
+          <p id="questionDescription" class="question-description">Подготовка вопросов…</p>
+
+          <div id="answersList" class="answers" role="list"></div>
+        </div>
+
+        <div class="nav-actions">
+          <button id="prevBtn" class="btn btn-secondary" type="button">← Назад</button>
+          <button id="nextBtn" class="btn btn-primary" type="button">Следующий →</button>
+        </div>
+      </section>
+
+      <aside class="panel panel-right">
+        <div class="info-header">
+          <h3>Информация по ответу</h3>
+          <span id="statusBadge" class="status-badge status-neutral">Ожидание</span>
+        </div>
+
+        <div id="infoPanel" class="info-panel empty">
+          <div class="info-placeholder">
+            <div class="info-icon">ℹ</div>
+            <p>Выберите вариант ответа, и здесь появится пояснение.</p>
+          </div>
+        </div>
+
+        <div class="legend">
+          <div class="legend-item"><span class="legend-dot correct"></span> правильный ответ</div>
+          <div class="legend-item"><span class="legend-dot wrong"></span> неправильный ответ</div>
+          <div class="legend-item"><span class="legend-dot selected"></span> выбранный вариант</div>
+        </div>
+      </aside>
+    </main>
+  </div>
+
+  <template id="answerTemplate">
+    <button class="answer-btn" type="button">
+      <span class="answer-letter"></span>
+      <span class="answer-content">
+        <span class="answer-text"></span>
+        <span class="answer-caption"></span>
+      </span>
+    </button>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
