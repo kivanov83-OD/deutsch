@@ -3461,7 +3461,7 @@
     "example": "Mein Großvater ist schon 50 Jahre mit meiner Großmutter verheiratet.",
     "example_ru": "Мой дедушка уже 50 лет женат на моей бабушке.",
     "etymology": "verheiratet mit — стандартная конструкция для обозначения брака.",
-    "usage": "Используется, когда говорят, с кем человек состоит в браке. После mit используется Dativ."
+    "usage": "После mit используется Dativ."
   }
 },
 {
@@ -3476,10 +3476,28 @@
   "info": {
     "phrase": "verliebt in + A",
     "translation": "влюблённый в кого-то",
-    "example": "Er ist seit Jahren in seine Nachbarin verliebt.",
-    "example_ru": "Он уже много лет влюблён в свою соседку.",
+    "example": "Paris Hilton war ganz verliebt in ihren kleinen Hund.",
+    "example_ru": "Пэрис Хилтон была полностью влюблена в своего маленького пса.",
     "etymology": "verliebt in — типичная конструкция для романтического чувства.",
-    "usage": "Используется для выражения влюблённости. После in используется Akkusativ."
+    "usage": "После in используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "verlobt ___", "ru": "помолвлен с кем-то" },
+  "answers": [
+    {"text":"mit","correct":true},
+    {"text":"für","correct":false},
+    {"text":"an","correct":false},
+    {"text":"zu","correct":false}
+  ],
+  "info": {
+    "phrase": "verlobt mit + D",
+    "translation": "помолвлен с кем-то",
+    "example": "Katja hat sich mit einem 20 Jahre älteren Mann verlobt.",
+    "example_ru": "Катя обручилась с мужчиной на 20 лет старше.",
+    "etymology": "verlobt mit используется для обозначения помолвки.",
+    "usage": "После mit используется Dativ."
   }
 },
 {
@@ -3494,28 +3512,82 @@
   "info": {
     "phrase": "verrückt nach + D",
     "translation": "без ума от чего-то",
-    "example": "Meine Tochter ist verrückt nach Schokolade.",
-    "example_ru": "Моя дочь без ума от шоколада.",
-    "etymology": "verrückt nach используется в разговорной речи для сильной симпатии.",
+    "example": "Ist dein Mann auch verrückt nach Fußball?",
+    "example_ru": "Твой муж тоже без ума от футбола?",
+    "etymology": "verrückt nach используется для сильной симпатии.",
     "usage": "После nach используется Dativ."
   }
 },
 {
   "category": "Adjektive mit Präpositionen",
-  "question": { "de": "vertraut ___", "ru": "знакомый с чем-то" },
+  "question": { "de": "verwandt ___", "ru": "родственник с кем-то" },
   "answers": [
     {"text":"mit","correct":true},
     {"text":"für","correct":false},
-    {"text":"zu","correct":false},
+    {"text":"über","correct":false},
+    {"text":"zu","correct":false}
+  ],
+  "info": {
+    "phrase": "verwandt mit + D",
+    "translation": "быть родственником",
+    "example": "John Kerry ist mit der Queen verwandt.",
+    "example_ru": "Джон Керри является родственником королевы.",
+    "etymology": "verwandt mit указывает на родственную связь.",
+    "usage": "После mit используется Dativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "wichtig ___", "ru": "важный для чего-то" },
+  "answers": [
+    {"text":"für","correct":true},
+    {"text":"an","correct":false},
+    {"text":"mit","correct":false},
     {"text":"über","correct":false}
   ],
   "info": {
-    "phrase": "vertraut mit + D",
-    "translation": "знакомый с чем-то",
-    "example": "Er ist mit den neuen Regeln vertraut.",
-    "example_ru": "Он знаком с новыми правилами.",
-    "etymology": "vertraut mit связано со знанием и опытом.",
-    "usage": "Используется, когда человек хорошо знаком с темой или системой. После mit используется Dativ."
+    "phrase": "wichtig für + A",
+    "translation": "важный для чего-то",
+    "example": "Die Buchmesse ist wichtig für Frankfurt.",
+    "example_ru": "Книжная ярмарка важна для Франкфурта.",
+    "etymology": "wichtig für указывает на значение или пользу.",
+    "usage": "После für используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "wütend ___", "ru": "злой на кого-то" },
+  "answers": [
+    {"text":"auf","correct":true},
+    {"text":"über","correct":false},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "wütend auf + A",
+    "translation": "злой на кого-то",
+    "example": "Nach dem Streit war Thomas sehr wütend auf seinen Sohn.",
+    "example_ru": "После ссоры Томас был очень зол на своего сына.",
+    "etymology": "wütend auf используется, когда злость направлена на человека.",
+    "usage": "После auf используется Akkusativ."
+  }
+},
+{
+  "category": "Adjektive mit Präpositionen",
+  "question": { "de": "wütend ___", "ru": "злой из-за чего-то" },
+  "answers": [
+    {"text":"über","correct":true},
+    {"text":"auf","correct":false},
+    {"text":"für","correct":false},
+    {"text":"mit","correct":false}
+  ],
+  "info": {
+    "phrase": "wütend über + A",
+    "translation": "злой из-за чего-то",
+    "example": "Viele DSL-Kunden sind wütend über den schlechten Service.",
+    "example_ru": "Многие клиенты DSL злятся из-за плохого сервиса.",
+    "etymology": "wütend über используется, когда злость вызвана ситуацией.",
+    "usage": "После über используется Akkusativ."
   }
 },
 {
@@ -3532,8 +3604,8 @@
     "translation": "довольный чем-то",
     "example": "Das Nationalteam war zufrieden mit dem Ergebnis des Finalspiels.",
     "example_ru": "Национальная команда была довольна результатом финального матча.",
-    "etymology": "zufrieden mit — очень частая конструкция в немецком.",
-    "usage": "Используется, когда человек доволен результатом или ситуацией. После mit используется Dativ."
+    "etymology": "zufrieden mit — очень распространённая конструкция.",
+    "usage": "После mit используется Dativ."
   }
 },
 {
@@ -3541,8 +3613,8 @@
   "question": { "de": "zuständig ___", "ru": "ответственный за что-то" },
   "answers": [
     {"text":"für","correct":true},
-    {"text":"mit","correct":false},
     {"text":"über","correct":false},
+    {"text":"mit","correct":false},
     {"text":"an","correct":false}
   ],
   "info": {
@@ -3550,8 +3622,8 @@
     "translation": "ответственный за что-то",
     "example": "Die Familienministerin ist zuständig für die Familienpolitik eines Staates.",
     "example_ru": "Министр по делам семьи отвечает за семейную политику государства.",
-    "etymology": "zuständig für связано с обязанностями и ответственностью.",
-    "usage": "Используется, когда называют сферу ответственности. После für используется Akkusativ."
+    "etymology": "zuständig für указывает на сферу ответственности.",
+    "usage": "После für используется Akkusativ."
   }
 }
 ]
