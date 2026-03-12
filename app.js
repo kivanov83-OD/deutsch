@@ -1,289 +1,143 @@
-const state = {
-  source: [],
-  filtered: [],
-  currentIndex: 0,
-  score: 0,
-  answeredIds: new Set(),
-  selectedCategory: 'all',
-  selectedAnswerIndex: null
-};
+let allQuestions = [];
+let questions = [];
+let currentIndex = 0;
+let correctCount = 0;
+const answered = new Map();
 
-const els = {
-  categorySelect: document.getElementById('categorySelect'),
-  shuffleBtn: document.getElementById('shuffleBtn'),
-  resetBtn: document.getElementById('resetBtn'),
-  prevBtn: document.getElementById('prevBtn'),
-  nextBtn: document.getElementById('nextBtn'),
-  progressBar: document.getElementById('progressBar'),
-  questionTitle: document.getElementById('questionTitle'),
-  questionDescription: document.getElementById('questionDescription'),
-  answersList: document.getElementById('answersList'),
-  infoPanel: document.getElementById('infoPanel'),
-  statusBadge: document.getElementById('statusBadge'),
-  currentCategory: document.getElementById('currentCategory'),
-  scoreValue: document.getElementById('scoreValue'),
-  totalValue: document.getElementById('totalValue'),
-  currentIndex: document.getElementById('currentIndex'),
-  questionsCount: document.getElementById('questionsCount'),
-  difficultyBadge: document.getElementById('difficultyBadge'),
-  questionTag: document.getElementById('questionTag'),
-  template: document.getElementById('answerTemplate')
-};
+const categoryFilter = document.getElementById('categoryFilter');
+const scoreText = document.getElementById('scoreText');
+const questionNumber = document.getElementById('questionNumber');
+const questionText = document.getElementById('questionText');
+const questionTranslation = document.getElementById('questionTranslation');
+const answersEl = document.getElementById('answers');
+const infoPhrase = document.getElementById('infoPhrase');
+const infoTranslation = document.getElementById('infoTranslation');
+const infoExample = document.getElementById('infoExample');
+const infoExampleRu = document.getElementById('infoExampleRu');
+const infoEtymology = document.getElementById('infoEtymology');
+const infoUsage = document.getElementById('infoUsage');
+const prevBtn = document.getElementById('prevBtn');
+const nextBtn = document.getElementById('nextBtn');
+const shuffleBtn = document.getElementById('shuffleBtn');
 
-function escapeHtml(value = '') {
-  return String(value)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#039;');
-}
-
-function setStatus(type, text) {
-  els.statusBadge.className = 'status-badge';
-  if (type === 'correct') els.statusBadge.classList.add('status-correct');
-  else if (type === 'wrong') els.statusBadge.classList.add('status-wrong');
-  else els.statusBadge.classList.add('status-neutral');
-  els.statusBadge.textContent = text;
-}
-
-function renderInfoEmpty() {
-  const question = state.filtered[state.currentIndex];
-  els.infoPanel.className = 'info-panel empty';
-  els.infoPanel.innerHTML = `
-    <div class="info-placeholder rich-placeholder">
-      <div class="info-icon">ℹ</div>
-      <div>
-        <p class="placeholder-title">Выбери вариант ответа</p>
-        <p class="placeholder-text">Справа появятся: перевод на русский, пример с переводом, этимология и описание использования.</p>
-        ${question ? `<p class="placeholder-phrase">Текущий шаблон: <strong>${escapeHtml(question.question)}</strong></p>` : ''}
-      </div>
-    </div>
-  `;
-  setStatus('neutral', 'Ожидание');
-}
-
-function renderInfo(answer, question) {
-  const correctAnswer = question.answers.find((item) => item.correct);
-  const info = question.info || {};
-
-  els.infoPanel.className = 'info-panel';
-  els.infoPanel.innerHTML = `
-    <div class="info-hero ${answer.correct ? 'correct' : 'wrong'}">
-      <div>
-        <p class="info-label">Устойчивое сочетание</p>
-        <h4 class="info-phrase">${escapeHtml(info.phrase || question.question)}</h4>
-      </div>
-      <div class="mini-result">
-        <span class="mini-result-label">Твой ответ</span>
-        <strong>${escapeHtml(answer.text)}</strong>
-      </div>
-    </div>
-
-    <div class="info-grid">
-      <section class="info-block">
-        <p class="info-label">Перевод на русский</p>
-        <p class="info-value">${escapeHtml(info.translation || '—')}</p>
-      </section>
-
-      <section class="info-block">
-        <p class="info-label">Правильный ответ</p>
-        <p class="info-value"><strong>${escapeHtml(correctAnswer?.text || '—')}</strong></p>
-      </section>
-    </div>
-
-    <section class="info-block">
-      <p class="info-label">Пример</p>
-      <p class="info-example">${escapeHtml(info.example || '—')}</p>
-      <p class="info-example-ru">${escapeHtml(info.example_ru || '—')}</p>
-    </section>
-
-    <section class="info-block">
-      <p class="info-label">Этимология</p>
-      <p class="info-value">${escapeHtml(info.etymology || '—')}</p>
-    </section>
-
-    <section class="info-block">
-      <p class="info-label">Описание использования</p>
-      <p class="info-value">${escapeHtml(info.usage || '—')}</p>
-    </section>
-  `;
-
-  setStatus(answer.correct ? 'correct' : 'wrong', answer.correct ? 'Верно' : 'Неверно');
-}
-
-function updateHeader(question) {
-  els.currentCategory.textContent = question?.category || '—';
-  els.scoreValue.textContent = state.score;
-  els.totalValue.textContent = state.filtered.length;
-  els.currentIndex.textContent = state.filtered.length ? state.currentIndex + 1 : 0;
-  els.questionsCount.textContent = state.filtered.length;
-  els.difficultyBadge.textContent = question?.difficulty || 'Без уровня';
-  els.questionTag.textContent = question?.tag || '—';
-  const progress = state.filtered.length ? ((state.currentIndex + 1) / state.filtered.length) * 100 : 0;
-  els.progressBar.style.width = `${progress}%`;
-}
-
-function updateNavButtons() {
-  els.prevBtn.disabled = state.currentIndex <= 0;
-  els.nextBtn.disabled = state.currentIndex >= state.filtered.length - 1;
-}
-
-function paintAnswers(selectedIndex = null) {
-  const buttons = [...els.answersList.querySelectorAll('.answer-btn')];
-  const question = state.filtered[state.currentIndex];
-
-  buttons.forEach((button, index) => {
-    const answer = question.answers[index];
-    button.classList.remove('is-selected', 'is-correct', 'is-wrong');
-
-    if (selectedIndex === index) {
-      button.classList.add('is-selected');
-      button.classList.add(answer.correct ? 'is-correct' : 'is-wrong');
-    }
-
-    if (selectedIndex !== null && answer.correct) {
-      button.classList.add('is-correct');
-    }
-  });
-}
-
-function handleAnswerClick(answer, answerIndex) {
-  const question = state.filtered[state.currentIndex];
-  state.selectedAnswerIndex = answerIndex;
-  renderInfo(answer, question);
-  paintAnswers(answerIndex);
-
-  if (answer.correct && !state.answeredIds.has(question.id)) {
-    state.score += 1;
-    state.answeredIds.add(question.id);
+function shuffleArray(items) {
+  const arr = [...items];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
   }
+  return arr;
+}
 
-  updateHeader(question);
+async function loadQuestions() {
+  const response = await fetch('questions.json');
+  allQuestions = await response.json();
+  buildCategories();
+  applyCategory();
+}
+
+function buildCategories() {
+  const categories = ['Все темы', ...new Set(allQuestions.map(q => q.category))];
+  categoryFilter.innerHTML = categories.map(cat => `<option value="${cat}">${cat}</option>`).join('');
+}
+
+function applyCategory() {
+  const selected = categoryFilter.value || 'Все темы';
+  questions = selected === 'Все темы'
+    ? [...allQuestions]
+    : allQuestions.filter(q => q.category === selected);
+
+  currentIndex = 0;
+  correctCount = 0;
+  answered.clear();
+  updateScore();
+  renderQuestion();
+}
+
+function updateScore() {
+  scoreText.textContent = `${correctCount} / ${questions.length}`;
+}
+
+function fillInfo(q) {
+  infoPhrase.textContent = q.info.phrase;
+  infoTranslation.textContent = q.info.translation;
+  infoExample.textContent = q.info.example;
+  infoExampleRu.textContent = q.info.example_ru;
+  infoEtymology.textContent = q.info.etymology;
+  infoUsage.textContent = q.info.usage;
 }
 
 function renderQuestion() {
-  const question = state.filtered[state.currentIndex];
-
-  if (!question) {
-    els.questionTitle.textContent = 'Вопросы не найдены';
-    els.questionDescription.textContent = 'Попробуй выбрать другую тему или проверь файл questions.json.';
-    els.answersList.innerHTML = '';
-    renderInfoEmpty();
-    updateHeader(null);
-    updateNavButtons();
+  if (!questions.length) {
+    questionNumber.textContent = 'Нет вопросов';
+    questionText.textContent = 'Здесь пока пусто';
+    questionTranslation.textContent = '';
+    answersEl.innerHTML = '';
+    infoPhrase.textContent = 'Нет данных';
+    infoTranslation.textContent = 'Добавь вопросы в questions.json';
+    infoExample.textContent = '—';
+    infoExampleRu.textContent = '—';
+    infoEtymology.textContent = '—';
+    infoUsage.textContent = '—';
     return;
   }
 
-  state.selectedAnswerIndex = null;
-  els.questionTitle.textContent = question.question;
-  els.questionDescription.textContent = question.description || 'Выбери один вариант ответа.';
-  els.answersList.innerHTML = '';
+  const q = questions[currentIndex];
+  questionNumber.textContent = `Вопрос ${currentIndex + 1} из ${questions.length}`;
+  questionText.textContent = q.question.de;
+  questionTranslation.textContent = q.question.ru;
+  fillInfo(q);
 
-  question.answers.forEach((answer, index) => {
-    const node = els.template.content.firstElementChild.cloneNode(true);
-    node.querySelector('.answer-letter').textContent = String.fromCharCode(65 + index);
-    node.querySelector('.answer-text').textContent = answer.text;
-    node.querySelector('.answer-caption').textContent = 'Выбери предлог';
-    node.addEventListener('click', () => handleAnswerClick(answer, index));
-    els.answersList.appendChild(node);
-  });
+  const savedAnswer = answered.get(currentIndex);
+  const renderedAnswers = q.shuffledAnswers || q.answers;
+  answersEl.innerHTML = '';
 
-  renderInfoEmpty();
-  updateHeader(question);
-  updateNavButtons();
-}
+  renderedAnswers.forEach(answer => {
+    const btn = document.createElement('button');
+    btn.className = 'answer-btn';
+    btn.textContent = answer.text;
 
-function populateCategories(questions) {
-  const categories = [...new Set(questions.map((q) => q.category).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'ru'));
-  els.categorySelect.innerHTML = '<option value="all">Все темы</option>' + categories
-    .map((category) => `<option value="${escapeHtml(category)}">${escapeHtml(category)}</option>`)
-    .join('');
-}
-
-function applyFilter() {
-  state.filtered = state.selectedCategory === 'all'
-    ? [...state.source]
-    : state.source.filter((q) => q.category === state.selectedCategory);
-
-  state.currentIndex = 0;
-  renderQuestion();
-}
-
-function shuffleCurrent() {
-  for (let i = state.filtered.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [state.filtered[i], state.filtered[j]] = [state.filtered[j], state.filtered[i]];
-  }
-  state.currentIndex = 0;
-  renderQuestion();
-}
-
-function resetQuiz() {
-  state.score = 0;
-  state.answeredIds.clear();
-  state.currentIndex = 0;
-  state.selectedCategory = 'all';
-  state.selectedAnswerIndex = null;
-  els.categorySelect.value = 'all';
-  state.filtered = [...state.source];
-  renderQuestion();
-}
-
-function attachEvents() {
-  els.categorySelect.addEventListener('change', (event) => {
-    state.selectedCategory = event.target.value;
-    applyFilter();
-  });
-
-  els.shuffleBtn.addEventListener('click', shuffleCurrent);
-  els.resetBtn.addEventListener('click', resetQuiz);
-
-  els.prevBtn.addEventListener('click', () => {
-    if (state.currentIndex > 0) {
-      state.currentIndex -= 1;
-      renderQuestion();
+    if (savedAnswer) {
+      if (answer.correct) btn.classList.add('correct');
+      if (savedAnswer.text === answer.text && !savedAnswer.correct) btn.classList.add('wrong');
+      btn.disabled = true;
     }
-  });
 
-  els.nextBtn.addEventListener('click', () => {
-    if (state.currentIndex < state.filtered.length - 1) {
-      state.currentIndex += 1;
-      renderQuestion();
-    }
+    btn.addEventListener('click', () => selectAnswer(answer, q));
+    answersEl.appendChild(btn);
   });
 }
 
-async function init() {
-  try {
-    const response = await fetch('questions.json', { cache: 'no-store' });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+function selectAnswer(answer, q) {
+  if (answered.has(currentIndex)) return;
 
-    const payload = await response.json();
-    state.source = Array.isArray(payload.questions) ? payload.questions : payload;
-    state.filtered = [...state.source];
-
-    populateCategories(state.source);
-    attachEvents();
-    renderQuestion();
-  } catch (error) {
-    console.error(error);
-    els.questionTitle.textContent = 'Не удалось загрузить вопросы';
-    els.questionDescription.textContent = 'Проверь questions.json или обнови страницу после коммита.';
-    els.answersList.innerHTML = '';
-    els.infoPanel.className = 'info-panel';
-    els.infoPanel.innerHTML = `
-      <div class="info-block">
-        <p class="info-label">Ошибка</p>
-        <p class="info-value">${escapeHtml(error.message)}</p>
-      </div>
-      <div class="info-block">
-        <p class="info-label">Что проверить</p>
-        <p class="info-value">Файл <strong>questions.json</strong> должен лежать рядом с <strong>index.html</strong> и быть валидным JSON.</p>
-      </div>
-    `;
-    setStatus('wrong', 'Ошибка загрузки');
-  }
+  answered.set(currentIndex, answer);
+  if (answer.correct) correctCount += 1;
+  updateScore();
+  fillInfo(q);
+  renderQuestion();
 }
 
-init();
+function shuffleCurrentAnswers() {
+  if (!questions.length) return;
+  const q = questions[currentIndex];
+  q.shuffledAnswers = shuffleArray(q.answers);
+  renderQuestion();
+}
+
+prevBtn.addEventListener('click', () => {
+  if (!questions.length) return;
+  currentIndex = (currentIndex - 1 + questions.length) % questions.length;
+  renderQuestion();
+});
+
+nextBtn.addEventListener('click', () => {
+  if (!questions.length) return;
+  currentIndex = (currentIndex + 1) % questions.length;
+  renderQuestion();
+});
+
+shuffleBtn.addEventListener('click', shuffleCurrentAnswers);
+categoryFilter.addEventListener('change', applyCategory);
+
+loadQuestions();
