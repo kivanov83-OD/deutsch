@@ -90,1655 +90,905 @@
   }
 },
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Aufregung ___",
-      "ru": "волнение / ажиотаж из-за чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Aufregung über + A",
-      "translation": "волнение / ажиотаж из-за чего-то",
-      "example": "Die Aufregung über die neue Schnellstraße war groß.",
-      "example_ru": "Волнение из-за новой скоростной трассы было большим.",
-      "etymology": "Слово Aufregung употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «волнение / ажиотаж из-за чего-то». После über здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Aufregung über + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Aufregung ___", "ru": "волнение / ажиотаж из-за чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Aufregung über + A",
+    "translation": "волнение / ажиотаж из-за чего-то",
+    "example": "Die Aufregung über die neue Schnellstraße war groß.",
+    "example_ru": "Волнение из-за новой скоростной трассы было большим.",
+    "etymology": "Существительное Aufregung связано с глаголом sich aufregen über — «волноваться или возмущаться из-за чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в выражении sich aufregen über, так и в существительном die Aufregung используется предлог über.",
+    "usage": "Используется, когда говорят о сильной эмоциональной реакции на событие или ситуацию: Aufregung über eine Entscheidung, über einen Skandal, über eine Nachricht, über eine politische Maßnahme."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Begeisterung ___",
-      "ru": "восторг / увлечение чем-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Begeisterung für + A",
-      "translation": "восторг / увлечение чем-то",
-      "example": "Die Begeisterung für höhere Steuern hielt sich in Grenzen.",
-      "example_ru": "Восторг по поводу более высоких налогов был ограниченным.",
-      "etymology": "Слово Begeisterung употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «восторг / увлечение чем-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Begeisterung für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Begeisterung ___", "ru": "восторг / увлечение чем-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Begeisterung für + A",
+    "translation": "восторг / увлечение чем-то",
+    "example": "Die Begeisterung für höhere Steuern hielt sich in Grenzen.",
+    "example_ru": "Восторг по поводу более высоких налогов был ограниченным.",
+    "etymology": "Существительное Begeisterung связано с глаголом sich begeistern für — «увлекаться чем-то, испытывать энтузиазм». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в выражении sich begeistern für, так и в существительном die Begeisterung используется предлог für.",
+    "usage": "Используется, когда говорят о сильном интересе или энтузиазме к деятельности, идее или предмету: Begeisterung für Sport, für Musik, für Technik, für eine neue Idee."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Bekanntschaft ___",
-      "ru": "знакомство с кем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Bekanntschaft mit + D",
-      "translation": "знакомство с кем-то",
-      "example": "Herr Jagger machte auch Bekanntschaft mit Prinz Charles.",
-      "example_ru": "Господин Джаггер тоже познакомился с принцем Чарльзом.",
-      "etymology": "Слово Bekanntschaft употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «знакомство с кем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Bekanntschaft mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Bekanntschaft ___", "ru": "знакомство с кем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Bekanntschaft mit + D",
+    "translation": "знакомство с кем-то",
+    "example": "Herr Jagger machte auch Bekanntschaft mit Prinz Charles.",
+    "example_ru": "Господин Джаггер тоже познакомился с принцем Чарльзом.",
+    "etymology": "Существительное Bekanntschaft связано с выражением Bekanntschaft machen mit — «познакомиться с кем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее глагольное выражение. Поэтому как в конструкции Bekanntschaft machen mit, так и в существительном die Bekanntschaft используется предлог mit.",
+    "usage": "Используется, когда речь идет о знакомстве с человеком, группой людей или новым окружением: Bekanntschaft mit einem Kollegen, mit neuen Nachbarn, mit einer berühmten Person."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Beliebtheit ___",
-      "ru": "популярность у кого-то"
-    },
-    "answers": [
-      {
-        "text": "bei",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Beliebtheit bei + D",
-      "translation": "популярность у кого-то",
-      "example": "Der junge Lehrer erfreute sich großer Beliebtheit bei den Schülern.",
-      "example_ru": "Молодой учитель пользовался большой популярностью у учеников.",
-      "etymology": "Слово Beliebtheit употребляется в устойчивом сочетании с предлогом bei. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «популярность у кого-то». После bei здесь нужен Dativ. Лучше учить сразу как целое выражение: die Beliebtheit bei + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Beliebtheit ___", "ru": "популярность у кого-то" },
+  "answers": [
+    { "text": "bei", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Beliebtheit bei + D",
+    "translation": "популярность у кого-то",
+    "example": "Der junge Lehrer erfreute sich großer Beliebtheit bei den Schülern.",
+    "example_ru": "Молодой учитель пользовался большой популярностью у учеников.",
+    "etymology": "Существительное Beliebtheit образовано от прилагательного beliebt — «популярный, любимый». В немецком языке это прилагательное обычно употребляется с предлогом bei, когда речь идет о том, у какой группы людей кто-то или что-то популярно: beliebt bei den Schülern. Поэтому и существительное die Beliebtheit используется с предлогом bei.",
+    "usage": "Используется, когда говорят о популярности человека, идеи или предмета среди определённой группы людей: Beliebtheit bei den Schülern, bei den Kunden, bei jungen Menschen, bei den Wählern."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Bereitschaft ___",
-      "ru": "готовность к чему-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Bereitschaft zu + D",
-      "translation": "готовность к чему-то",
-      "example": "Der Präsident erklärt seine Bereitschaft zur Hilfe für die Opfer der Flutkatastrophe.",
-      "example_ru": "Президент заявляет о своей готовности помочь жертвам наводнения.",
-      "etymology": "Слово Bereitschaft употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «готовность к чему-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Bereitschaft zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Bereitschaft ___", "ru": "готовность к чему-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Bereitschaft zu + D",
+    "translation": "готовность к чему-то",
+    "example": "Der Präsident erklärt seine Bereitschaft zur Hilfe für die Opfer der Flutkatastrophe.",
+    "example_ru": "Президент заявляет о своей готовности помочь жертвам наводнения.",
+    "etymology": "Существительное Bereitschaft связано с прилагательным bereit zu — «готовый к чему-то, готовый что-то сделать». В немецком языке существительные часто сохраняют тот же предлог, что и исходное прилагательное или выражение. Поэтому как в конструкции bereit zu, так и в существительном die Bereitschaft используется предлог zu.",
+    "usage": "Используется, когда говорят о готовности человека или организации к действию или помощи: Bereitschaft zu helfen, zur Zusammenarbeit, zu Veränderungen, zu einem Kompromiss."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Beschäftigung ___",
-      "ru": "занятие / работа над чем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Beschäftigung mit + D",
-      "translation": "занятие / работа над чем-то",
-      "example": "Die Beschäftigung mit der deutschen Grammatik ist sehr anstrengend.",
-      "example_ru": "Занятие немецкой грамматикой очень утомительно.",
-      "etymology": "Слово Beschäftigung употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «занятие / работа над чем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Beschäftigung mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Beschäftigung ___", "ru": "занятие / работа над чем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Beschäftigung mit + D",
+    "translation": "занятие / работа над чем-то",
+    "example": "Die Beschäftigung mit der deutschen Grammatik ist sehr anstrengend.",
+    "example_ru": "Занятие немецкой грамматикой очень утомительно.",
+    "etymology": "Существительное Beschäftigung связано с глаголом sich beschäftigen mit — «заниматься чем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в выражении sich beschäftigen mit, так и в существительном die Beschäftigung используется предлог mit.",
+    "usage": "Используется, когда говорят о деятельности, изучении или работе над какой-либо темой: Beschäftigung mit der Grammatik, mit Geschichte, mit einem Projekt, mit wissenschaftlichen Fragen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Bitte ___",
-      "ru": "просьба о чём-то"
-    },
-    "answers": [
-      {
-        "text": "um",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Bitte um + A",
-      "translation": "просьба о чём-то",
-      "example": "Seine Bitte um die Verlängerung der Aufenthaltserlaubnis wurde abgewiesen.",
-      "example_ru": "Его просьба о продлении вида на жительство была отклонена.",
-      "etymology": "Слово Bitte употребляется в устойчивом сочетании с предлогом um. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «просьба о чём-то». После um здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Bitte um + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Bitte ___", "ru": "просьба о чём-то" },
+  "answers": [
+    { "text": "um", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Bitte um + A",
+    "translation": "просьба о чём-то",
+    "example": "Seine Bitte um die Verlängerung der Aufenthaltserlaubnis wurde abgewiesen.",
+    "example_ru": "Его просьба о продлении вида на жительство была отклонена.",
+    "etymology": "Существительное Bitte связано с глаголом bitten um — «просить о чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции bitten um, так и в существительном die Bitte используется предлог um.",
+    "usage": "Используется, когда речь идет о просьбе получить что-либо: Bitte um Hilfe, um Unterstützung, um eine Antwort, um Verlängerung der Frist."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Dank ___",
-      "ru": "благодарность за что-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Dank für + A",
-      "translation": "благодарность за что-то",
-      "example": "Herzlichen Dank für das schöne Geschenk!",
-      "example_ru": "Большое спасибо за прекрасный подарок!",
-      "etymology": "Слово Dank употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «благодарность за что-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Dank für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Dank ___", "ru": "благодарность за что-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Dank für + A",
+    "translation": "благодарность за что-то",
+    "example": "Herzlichen Dank für das schöne Geschenk!",
+    "example_ru": "Большое спасибо за прекрасный подарок!",
+    "etymology": "Существительное Dank связано с глаголом danken für — «благодарить за что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол или выражение. Поэтому как в конструкции danken für, так и в существительном der Dank используется предлог für.",
+    "usage": "Используется, когда выражают благодарность за действие, помощь или подарок: Dank für die Hilfe, für das Geschenk, für die Unterstützung, für die Einladung."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Dankbarkeit ___",
-      "ru": "благодарность за что-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Dankbarkeit für + A",
-      "translation": "благодарность за что-то",
-      "example": "Die Großmutter empfand Dankbarkeit für den Besuch der Enkel.",
-      "example_ru": "Бабушка чувствовала благодарность за визит внуков.",
-      "etymology": "Слово Dankbarkeit употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «благодарность за что-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Dankbarkeit für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Dankbarkeit ___", "ru": "благодарность за что-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Dankbarkeit für + A",
+    "translation": "благодарность за что-то",
+    "example": "Die Großmutter empfand Dankbarkeit für den Besuch der Enkel.",
+    "example_ru": "Бабушка чувствовала благодарность за визит внуков.",
+    "etymology": "Существительное Dankbarkeit образовано от слова Dank и связано с глаголом danken für — «благодарить за что-то». В немецком языке такие существительные сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции danken für, так и в существительном die Dankbarkeit используется предлог für.",
+    "usage": "Используется, когда говорят о чувстве благодарности за помощь, поддержку или событие: Dankbarkeit für die Hilfe, für die Unterstützung, für eine Chance, für einen Besuch."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Eifersucht ___",
-      "ru": "ревность к кому-то / чему-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Eifersucht auf + A",
-      "translation": "ревность к кому-то / чему-то",
-      "example": "Seine Eifersucht auf ihren Kollegen ist krankhaft.",
-      "example_ru": "Его ревность к её коллеге болезненна.",
-      "etymology": "Слово Eifersucht употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «ревность к кому-то / чему-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Eifersucht auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Eifersucht ___", "ru": "ревность к кому-то / чему-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Eifersucht auf + A",
+    "translation": "ревность к кому-то / чему-то",
+    "example": "Seine Eifersucht auf ihren Kollegen ist krankhaft.",
+    "example_ru": "Его ревность к её коллеге болезненна.",
+    "etymology": "Существительное Eifersucht связано с прилагательным eifersüchtig auf — «ревнивый к кому-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное или выражение. Поэтому как в конструкции eifersüchtig auf, так и в существительном die Eifersucht используется предлог auf.",
+    "usage": "Используется, когда говорят о ревности по отношению к человеку или из-за внимания к кому-то: Eifersucht auf einen Kollegen, auf den Ex-Partner, auf einen Rivalen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Eignung ___",
-      "ru": "пригодность для чего-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Eignung für + A",
-      "translation": "пригодность для чего-то",
-      "example": "Nächsten Montag gibt es Informationen zum Thema „Eignung für das Studium“.",
-      "example_ru": "В следующий понедельник будет информация на тему «пригодность к обучению».",
-      "etymology": "Слово Eignung употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «пригодность для чего-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Eignung für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Eignung ___", "ru": "пригодность для чего-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Eignung für + A",
+    "translation": "пригодность для чего-то",
+    "example": "Nächsten Montag gibt es Informationen zum Thema „Eignung für das Studium“.",
+    "example_ru": "В следующий понедельник будет информация на тему «пригодность к обучению».",
+    "etymology": "Существительное Eignung связано с прилагательным geeignet für — «подходящий, пригодный для чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении geeignet für, так и в существительном die Eignung используется предлог für.",
+    "usage": "Используется, когда говорят о способности или пригодности человека или вещи для определённой задачи: Eignung für das Studium, für eine Stelle, für eine Aufgabe, für den Beruf."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Eignung ___",
-      "ru": "пригодность к роли / должности"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Eignung zu + D",
-      "translation": "пригодность к роли / должности",
-      "example": "Haben Sie die Eignung zum Manager?",
-      "example_ru": "Есть ли у вас качества, подходящие для менеджера?",
-      "etymology": "Слово Eignung употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «пригодность к роли / должности». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Eignung zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Eignung ___", "ru": "пригодность к роли / должности" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Eignung zu + D",
+    "translation": "пригодность к роли / должности",
+    "example": "Haben Sie die Eignung zum Manager?",
+    "example_ru": "Есть ли у вас качества, подходящие для менеджера?",
+    "etymology": "Существительное Eignung связано с прилагательным geeignet — «подходящий, пригодный». В немецком языке предлог zu часто используется, когда речь идет о роли, функции или статусе человека. Поэтому в выражениях типа Eignung zu einer Aufgabe или zum Manager используется предлог zu.",
+    "usage": "Используется, когда говорят о способности человека выполнять определённую роль или занимать должность: Eignung zum Manager, zum Lehrer, zu einer Führungsposition."
+  }
+},
+ {
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "das Einverständnis ___", "ru": "согласие с кем-то / чем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "das Einverständnis mit + D",
+    "translation": "согласие с кем-то / чем-то",
+    "example": "Er handelte im Einverständnis mit seinem Boss.",
+    "example_ru": "Он действовал по согласованию со своим начальником.",
+    "etymology": "Существительное Einverständnis связано с прилагательным einverstanden mit — «согласный с кем-то или чем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении einverstanden mit, так и в существительном das Einverständnis используется предлог mit.",
+    "usage": "Используется, когда речь идет о согласии или одобрении со стороны человека или группы: Einverständnis mit den Eltern, mit dem Chef, mit einer Entscheidung."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "das Einverständnis ___",
-      "ru": "согласие с кем-то / чем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "das Einverständnis mit + D",
-      "translation": "согласие с кем-то / чем-то",
-      "example": "Er handelte im Einverständnis mit seinem Boss.",
-      "example_ru": "Он действовал по согласованию со своим начальником.",
-      "etymology": "Слово Einverständnis употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «согласие с кем-то / чем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: das Einverständnis mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Entscheidung ___", "ru": "решение по поводу чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Entscheidung über + A",
+    "translation": "решение по поводу чего-то",
+    "example": "Die Entscheidung über den Ausbau des Flughafens ist noch nicht gefallen.",
+    "example_ru": "Решение о расширении аэропорта ещё не принято.",
+    "etymology": "Существительное Entscheidung связано с глаголом entscheiden über — «решать что-то, принимать решение по поводу чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции entscheiden über, так и в существительном die Entscheidung используется предлог über.",
+    "usage": "Используется, когда говорят о принятии решения по определённому вопросу или проекту: Entscheidung über ein Gesetz, über ein Projekt, über den Ausbau eines Flughafens."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Entscheidung ___",
-      "ru": "решение по поводу чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Entscheidung über + A",
-      "translation": "решение по поводу чего-то",
-      "example": "Die Entscheidung über den Ausbau des Flughafens ist noch nicht gefallen.",
-      "example_ru": "Решение о расширении аэропорта ещё не принято.",
-      "etymology": "Слово Entscheidung употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «решение по поводу чего-то». После über здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Entscheidung über + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Entschlossenheit ___", "ru": "решимость к чему-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Entschlossenheit zu + D",
+    "translation": "решимость к чему-то",
+    "example": "Die Kanzlerin betonte die Entschlossenheit zum Ausstieg aus der Atomkraft.",
+    "example_ru": "Канцлер подчеркнула решимость отказаться от атомной энергетики.",
+    "etymology": "Существительное Entschlossenheit связано с прилагательным entschlossen zu — «решительно настроенный сделать что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении entschlossen zu, так и в существительном die Entschlossenheit используется предлог zu.",
+    "usage": "Используется, когда говорят о сильной решимости совершить действие или добиться цели: Entschlossenheit zum Handeln, zum Widerstand, zu Reformen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Entschlossenheit ___",
-      "ru": "решимость к чему-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Entschlossenheit zu + D",
-      "translation": "решимость к чему-то",
-      "example": "Die Kanzlerin betonte die Entschlossenheit zum Ausstieg aus der Atomkraft.",
-      "example_ru": "Канцлер подчеркнула решимость отказаться от атомной энергетики.",
-      "etymology": "Слово Entschlossenheit употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «решимость к чему-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Entschlossenheit zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Entschuldigung ___", "ru": "извинение за что-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Entschuldigung für + A",
+    "translation": "извинение за что-то",
+    "example": "Der Chef nahm die Entschuldigung seines Mitarbeiters für den Fehler an.",
+    "example_ru": "Начальник принял извинение своего сотрудника за ошибку.",
+    "etymology": "Существительное Entschuldigung связано с глаголом sich entschuldigen für — «извиняться за что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции sich entschuldigen für, так и в существительном die Entschuldigung используется предлог für.",
+    "usage": "Используется, когда говорят о признании ошибки или вины: Entschuldigung für einen Fehler, für die Verspätung, für ein Missverständnis."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Entschuldigung ___",
-      "ru": "извинение за что-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Entschuldigung für + A",
-      "translation": "извинение за что-то",
-      "example": "Der Chef nahm die Entschuldigung seines Mitarbeiters für den Fehler an.",
-      "example_ru": "Начальник принял извинение своего сотрудника за ошибку.",
-      "etymology": "Слово Entschuldigung употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «извинение за что-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Entschuldigung für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Erinnerung ___", "ru": "воспоминание о ком-то / о чём-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Erinnerung an + A",
+    "translation": "воспоминание о ком-то / о чём-то",
+    "example": "Er brauchte stets eine Erinnerung im Kalender an den Geburtstag seiner Frau.",
+    "example_ru": "Ему всегда нужно было напоминание в календаре о дне рождения жены.",
+    "etymology": "Существительное Erinnerung связано с глаголом sich erinnern an — «вспоминать кого-то или что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции sich erinnern an, так и в существительном die Erinnerung используется предлог an.",
+    "usage": "Используется, когда говорят о воспоминаниях или напоминаниях о людях, событиях или местах: Erinnerung an die Kindheit, an eine Reise, an einen Freund."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Erinnerung ___",
-      "ru": "воспоминание о ком-то / о чём-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Erinnerung an + A",
-      "translation": "воспоминание о ком-то / о чём-то",
-      "example": "Er brauchte stets eine Erinnerung im Kalender an den Geburtstag seiner Frau.",
-      "example_ru": "Ему всегда нужно было напоминание в календаре о дне рождения жены.",
-      "etymology": "Слово Erinnerung употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «воспоминание о ком-то / о чём-то». После an здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Erinnerung an + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Frage ___", "ru": "вопрос о чём-то" },
+  "answers": [
+    { "text": "nach", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Frage nach + D",
+    "translation": "вопрос о чём-то",
+    "example": "Bei den hohen Kosten stellt sich die Frage nach dem Sinn des Bauprojekts.",
+    "example_ru": "При таких высоких расходах возникает вопрос о смысле строительного проекта.",
+    "etymology": "Существительное Frage связано с глаголом fragen nach — «спрашивать о чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции fragen nach, так и в существительном die Frage используется предлог nach.",
+    "usage": "Используется, когда речь идет о содержании вопроса или теме обсуждения: Frage nach dem Sinn, nach den Kosten, nach der Zukunft, nach den Gründen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Frage ___",
-      "ru": "вопрос о чём-то"
-    },
-    "answers": [
-      {
-        "text": "nach",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Frage nach + D",
-      "translation": "вопрос о чём-то",
-      "example": "Bei den hohen Kosten stellt sich die Frage nach dem Sinn des Bauprojekts.",
-      "example_ru": "При таких высоких расходах возникает вопрос о смысле строительного проекта.",
-      "etymology": "Слово Frage употребляется в устойчивом сочетании с предлогом nach. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «вопрос о чём-то». После nach здесь нужен Dativ. Лучше учить сразу как целое выражение: die Frage nach + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Freude ___", "ru": "радость от занятия / процесса" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Freude an + D",
+    "translation": "радость от занятия / процесса",
+    "example": "Sie ließ sich die Freude an der Arbeit nicht durch seine schlechte Laune nehmen.",
+    "example_ru": "Она не позволила его плохому настроению лишить её радости от работы.",
+    "etymology": "Существительное Freude часто связано с выражением Freude haben an — «получать удовольствие от чего-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому как в конструкции Freude haben an, так и в существительном die Freude используется предлог an.",
+    "usage": "Используется, когда говорят об удовольствии от занятия или процесса: Freude an der Arbeit, an der Musik, an der Natur, an neuen Aufgaben."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Freude ___",
-      "ru": "радость от занятия / процесса"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Freude an + D",
-      "translation": "радость от занятия / процесса",
-      "example": "Sie ließ sich die Freude an der Arbeit nicht durch seine schlechte Laune nehmen.",
-      "example_ru": "Она не позволила его плохому настроению лишить её радости от работы.",
-      "etymology": "Слово Freude употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «радость от занятия / процесса». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: die Freude an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Freude ___", "ru": "радость в ожидании чего-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Freude auf + A",
+    "translation": "радость в ожидании чего-то",
+    "example": "Die Freude auf den nächsten Urlaub war groß.",
+    "example_ru": "Радость в ожидании следующего отпуска была большой.",
+    "etymology": "Это употребление связано с глагольной конструкцией sich freuen auf — «радоваться чему-то в будущем». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому выражение die Freude auf используется по аналогии с sich freuen auf.",
+    "usage": "Используется, когда говорят о радостном ожидании будущего события: Freude auf den Urlaub, auf das Wochenende, auf ein Wiedersehen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Freude ___",
-      "ru": "радость в ожидании чего-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Freude auf + A",
-      "translation": "радость в ожидании чего-то",
-      "example": "Die Freude auf den nächsten Urlaub war groß.",
-      "example_ru": "Радость в ожидании следующего отпуска была большой.",
-      "etymology": "Слово Freude употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «радость в ожидании чего-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Freude auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Freude ___", "ru": "радость из-за чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Freude über + A",
+    "translation": "радость из-за чего-то",
+    "example": "Die Freude über den Sieg erfasste auch die Zuschauer.",
+    "example_ru": "Радость от победы охватила и зрителей.",
+    "etymology": "Существительное Freude связано с глагольной конструкцией sich freuen über — «радоваться чему-то, что уже произошло». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в выражении sich freuen über, так и в существительном die Freude используется предлог über.",
+    "usage": "Используется, когда говорят о радости по поводу произошедшего события: Freude über den Sieg, über eine gute Nachricht, über ein Geschenk."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Freude ___",
-      "ru": "радость из-за чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Freude über + A",
-      "translation": "радость из-за чего-то",
-      "example": "Die Freude über den Sieg erfasste auch die Zuschauer.",
-      "example_ru": "Радость от победы охватила и зрителей.",
-      "etymology": "Слово Freude употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «радость из-за чего-то». После über здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Freude über + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Freundlichkeit ___", "ru": "доброжелательность по отношению к кому-то" },
+  "answers": [
+    { "text": "gegenüber", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Freundlichkeit gegenüber + D",
+    "translation": "доброжелательность по отношению к кому-то",
+    "example": "Roberts Freundlichkeit gegenüber seinen Gästen war erstaunlich.",
+    "example_ru": "Доброжелательность Роберта по отношению к своим гостям была удивительной.",
+    "etymology": "Существительное Freundlichkeit связано с прилагательным freundlich gegenüber — «доброжелательный по отношению к кому-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении freundlich gegenüber, так и в существительном die Freundlichkeit используется предлог gegenüber.",
+    "usage": "Используется, когда говорят о поведении или отношении к другим людям: Freundlichkeit gegenüber Gästen, gegenüber Kollegen, gegenüber Kunden."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Freundlichkeit ___",
-      "ru": "доброжелательность по отношению к кому-то"
-    },
-    "answers": [
-      {
-        "text": "gegenüber",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Freundlichkeit gegenüber + D",
-      "translation": "доброжелательность по отношению к кому-то",
-      "example": "Roberts Freundlichkeit gegenüber seinen Gästen war erstaunlich.",
-      "example_ru": "Доброжелательность Роберта по отношению к своим гостям была удивительной.",
-      "etymology": "Слово Freundlichkeit употребляется в устойчивом сочетании с предлогом gegenüber. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «доброжелательность по отношению к кому-то». После gegenüber здесь нужен Dativ. Лучше учить сразу как целое выражение: die Freundlichkeit gegenüber + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Freundschaft ___", "ru": "дружба с кем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Freundschaft mit + D",
+    "translation": "дружба с кем-то",
+    "example": "Sie fand die Freundschaft mit seiner Ex-Frau sehr schwierig.",
+    "example_ru": "Она считала дружбу с его бывшей женой очень сложной.",
+    "etymology": "Существительное Freundschaft связано с выражением befreundet mit — «быть в дружеских отношениях с кем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное или выражение. Поэтому как в конструкции befreundet mit, так и в существительном die Freundschaft используется предлог mit.",
+    "usage": "Используется, когда говорят о дружеских отношениях между людьми: Freundschaft mit einem Kollegen, mit einem Nachbarn, mit einer berühmten Person."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Freundschaft ___",
-      "ru": "дружба с кем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Freundschaft mit + D",
-      "translation": "дружба с кем-то",
-      "example": "Sie fand die Freundschaft mit seiner Ex-Frau sehr schwierig.",
-      "example_ru": "Она считала дружбу с его бывшей женой очень сложной.",
-      "etymology": "Слово Freundschaft употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «дружба с кем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Freundschaft mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Gedanke ___", "ru": "мысль о чём-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Gedanke an + A",
+    "translation": "мысль о чём-то",
+    "example": "Der Gedanke an den Abschied macht mich traurig.",
+    "example_ru": "Мысль о прощании делает меня грустным.",
+    "etymology": "Существительное Gedanke связано с глаголом denken an — «думать о чём-то или о ком-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции denken an, так и в выражении der Gedanke используется предлог an.",
+    "usage": "Используется, когда говорят о мысли или воспоминании о человеке, событии или ситуации: Gedanke an die Zukunft, an einen Freund, an den Abschied."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Gedanke ___",
-      "ru": "мысль о чём-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Gedanke an + A",
-      "translation": "мысль о чём-то",
-      "example": "Der Gedanke an den Abschied macht mich traurig.",
-      "example_ru": "Мысль о прощании делает меня грустным.",
-      "etymology": "Слово Gedanke употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «мысль о чём-то». После an здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Gedanke an + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "das Gedenken ___", "ru": "память о ком-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "das Gedenken an + A",
+    "translation": "память о ком-то",
+    "example": "Die Familie traf sich im Gedenken an den Verstorbenen.",
+    "example_ru": "Семья собралась в память об умершем.",
+    "etymology": "Существительное Gedenken связано с глаголом gedenken — «почитать память кого-то». В современном языке часто используется выражение im Gedenken an. Поэтому и существительное das Gedenken употребляется с предлогом an.",
+    "usage": "Используется, когда речь идет о почитании памяти человека или события: Gedenken an die Verstorbenen, an die Opfer eines Unglücks, an historische Ereignisse."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "das Gedenken ___",
-      "ru": "память о ком-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "das Gedenken an + A",
-      "translation": "память о ком-то",
-      "example": "Die Familie traf sich im Gedenken an den Verstorbenen.",
-      "example_ru": "Семья собралась в память об умершем.",
-      "etymology": "Слово Gedenken употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «память о ком-то». После an здесь нужен Akkusativ. Лучше учить сразу как целое выражение: das Gedenken an + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Gelegenheit ___", "ru": "возможность для чего-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Gelegenheit zu + D",
+    "translation": "возможность для чего-то",
+    "example": "Die Touristen hatten auch Gelegenheit zum Einkauf im Outletcenter.",
+    "example_ru": "У туристов была также возможность сделать покупки в аутлет-центре.",
+    "etymology": "Существительное Gelegenheit часто употребляется в выражении Gelegenheit haben zu — «иметь возможность сделать что-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому как в конструкции Gelegenheit haben zu, так и в существительном die Gelegenheit используется предлог zu.",
+    "usage": "Используется, когда говорят о возможности или удобном случае сделать что-то: Gelegenheit zum Einkauf, zum Gespräch, zum Lernen, zu einem Treffen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Gelegenheit ___",
-      "ru": "возможность для чего-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Gelegenheit zu + D",
-      "translation": "возможность для чего-то",
-      "example": "Die Touristen hatten auch Gelegenheit zum Einkauf im Outletcenter.",
-      "example_ru": "У туристов была также возможность сделать покупки в аутлет-центре.",
-      "etymology": "Слово Gelegenheit употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «возможность для чего-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Gelegenheit zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Gleichgültigkeit ___", "ru": "равнодушие к чему-то" },
+  "answers": [
+    { "text": "gegenüber", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Gleichgültigkeit gegenüber + D",
+    "translation": "равнодушие к чему-то",
+    "example": "Er besaß eine große Gleichgültigkeit gegenüber finanziellen Dingen.",
+    "example_ru": "Он отличался большим равнодушием к финансовым вопросам.",
+    "etymology": "Существительное Gleichgültigkeit связано с прилагательным gleichgültig gegenüber — «равнодушный к кому-то или чему-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении gleichgültig gegenüber, так и в существительном die Gleichgültigkeit используется предлог gegenüber.",
+    "usage": "Используется, когда говорят о безразличии или отсутствии интереса к людям, событиям или вопросам: Gleichgültigkeit gegenüber Problemen, gegenüber Politik, gegenüber anderen Menschen."
+  }
+},
+ {
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Glückwunsch ___", "ru": "поздравление с чем-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Glückwunsch zu + D",
+    "translation": "поздравление с чем-то",
+    "example": "Herzlichen Glückwunsch zum Geburtstag!",
+    "example_ru": "Сердечно поздравляю с днём рождения!",
+    "etymology": "Существительное Glückwunsch связано с глаголом gratulieren zu — «поздравлять с чем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол или выражение. Поэтому как в конструкции gratulieren zu, так и в выражении der Glückwunsch используется предлог zu.",
+    "usage": "Используется, когда поздравляют с событием или достижением: Glückwunsch zum Geburtstag, zur Hochzeit, zum Erfolg, zum neuen Job."
+  }
+},
+ {
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Heirat ___", "ru": "брак / женитьба на ком-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Heirat mit + D",
+    "translation": "брак / женитьба на ком-то",
+    "example": "Die Heirat der Prinzessin mit dem Fitnesstrainer ging durch die Presse.",
+    "example_ru": "О браке принцессы с фитнес-тренером писали в прессе.",
+    "etymology": "Существительное Heirat связано с глаголом heiraten и выражением verheiratet mit — «быть женатым / замужем за кем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее выражение. Поэтому в сочетании die Heirat используется предлог mit.",
+    "usage": "Используется, когда говорят о вступлении в брак с человеком: Heirat mit einem Kollegen, mit einer Freundin, mit einem Prinzen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Gleichgültigkeit ___",
-      "ru": "равнодушие к чему-то"
-    },
-    "answers": [
-      {
-        "text": "gegenüber",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Gleichgültigkeit gegenüber + D",
-      "translation": "равнодушие к чему-то",
-      "example": "Er besaß eine große Gleichgültigkeit gegenüber finanziellen Dingen.",
-      "example_ru": "Он отличался большим равнодушием к финансовым вопросам.",
-      "etymology": "Слово Gleichgültigkeit употребляется в устойчивом сочетании с предлогом gegenüber. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «равнодушие к чему-то». После gegenüber здесь нужен Dativ. Лучше учить сразу как целое выражение: die Gleichgültigkeit gegenüber + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Hilfe ___", "ru": "помощь в чём-то" },
+  "answers": [
+    { "text": "bei", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Hilfe bei + D",
+    "translation": "помощь в чём-то",
+    "example": "Das Medikament verspricht Hilfe bei Gelenkschmerzen.",
+    "example_ru": "Это лекарство обещает помощь при болях в суставах.",
+    "etymology": "Существительное Hilfe связано с глаголом helfen bei — «помогать в чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее глагольное выражение. Поэтому как в конструкции helfen bei, так и в существительном die Hilfe используется предлог bei.",
+    "usage": "Используется, когда говорят о поддержке или помощи в выполнении действия или решении проблемы: Hilfe bei der Arbeit, bei Hausaufgaben, bei Problemen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Glückwunsch ___",
-      "ru": "поздравление с чем-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Glückwunsch zu + D",
-      "translation": "поздравление с чем-то",
-      "example": "Herzlichen Glückwunsch zum Geburtstag!",
-      "example_ru": "Сердечно поздравляю с днём рождения!",
-      "etymology": "Слово Glückwunsch употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «поздравление с чем-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: der Glückwunsch zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Hinweis ___", "ru": "указание / намёк на что-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Hinweis auf + A",
+    "translation": "указание / намёк на что-то",
+    "example": "Bei der Polizei gingen viele Hinweise auf den Entführer ein.",
+    "example_ru": "В полицию поступило много указаний на похитителя.",
+    "etymology": "Существительное Hinweis связано с глаголом hinweisen auf — «указывать на что-то, обращать внимание на что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции hinweisen auf, так и в выражении der Hinweis используется предлог auf.",
+    "usage": "Используется, когда речь идет о подсказке, сигнале или указании на факт или проблему: Hinweis auf einen Täter, auf einen Fehler, auf ein Problem."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Heirat ___",
-      "ru": "брак / женитьба на ком-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Heirat mit + D",
-      "translation": "брак / женитьба на ком-то",
-      "example": "Die Heirat der Prinzessin mit dem Fitnesstrainer ging durch die Presse.",
-      "example_ru": "О браке принцессы с фитнес-тренером писали в прессе.",
-      "etymology": "Слово Heirat употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «брак / женитьба на ком-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Heirat mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Hoffnung ___", "ru": "надежда на что-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Hoffnung auf + A",
+    "translation": "надежда на что-то",
+    "example": "Sie gaben die Hoffnung auf ein eigenes Baby nicht auf.",
+    "example_ru": "Они не оставили надежду на собственного ребёнка.",
+    "etymology": "Существительное Hoffnung связано с глаголом hoffen auf — «надеяться на что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции hoffen auf, так и в выражении die Hoffnung используется предлог auf.",
+    "usage": "Используется, когда говорят о надежде на будущее событие или результат: Hoffnung auf Erfolg, auf eine Lösung, auf ein besseres Leben."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Hilfe ___",
-      "ru": "помощь в чём-то"
-    },
-    "answers": [
-      {
-        "text": "bei",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Hilfe bei + D",
-      "translation": "помощь в чём-то",
-      "example": "Das Medikament verspricht Hilfe bei Gelenkschmerzen.",
-      "example_ru": "Это лекарство обещает помощь при болях в суставах.",
-      "etymology": "Слово Hilfe употребляется в устойчивом сочетании с предлогом bei. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «помощь в чём-то». После bei здесь нужен Dativ. Лучше учить сразу как целое выражение: die Hilfe bei + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Höflichkeit ___", "ru": "вежливость к кому-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Höflichkeit zu + D",
+    "translation": "вежливость к кому-то",
+    "example": "Mit Höflichkeit kommt man schneller zum Erfolg.",
+    "example_ru": "С вежливостью быстрее добиваются успеха.",
+    "etymology": "Существительное Höflichkeit связано с прилагательным höflich zu — «вежливый по отношению к кому-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении höflich zu, так и в существительном die Höflichkeit используется предлог zu.",
+    "usage": "Используется, когда говорят о вежливом отношении к человеку: Höflichkeit zu Gästen, zu Kunden, zu älteren Menschen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Hinweis ___",
-      "ru": "указание / намёк на что-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Hinweis auf + A",
-      "translation": "указание / намёк на что-то",
-      "example": "Bei der Polizei gingen viele Hinweise auf den Entführer ein.",
-      "example_ru": "В полицию поступило много указаний на похитителя.",
-      "etymology": "Слово Hinweis употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «указание / намёк на что-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Hinweis auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "das Interesse ___", "ru": "интерес к чему-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "das Interesse an + D",
+    "translation": "интерес к чему-то",
+    "example": "Wir haben Interesse an diesem Wagen.",
+    "example_ru": "У нас есть интерес к этой машине.",
+    "etymology": "Существительное Interesse связано с прилагательным interessiert an — «заинтересованный в чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении interessiert an, так и в существительном das Interesse используется предлог an.",
+    "usage": "Используется, когда говорят о заинтересованности в теме, предмете или деятельности: Interesse an Musik, an Politik, an einem neuen Auto."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Hoffnung ___",
-      "ru": "надежда на что-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Hoffnung auf + A",
-      "translation": "надежда на что-то",
-      "example": "Sie gaben die Hoffnung auf ein eigenes Baby nicht auf.",
-      "example_ru": "Они не оставили надежду на собственного ребёнка.",
-      "etymology": "Слово Hoffnung употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «надежда на что-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Hoffnung auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Liebe ___", "ru": "любовь к чему-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Liebe zu + D",
+    "translation": "любовь к чему-то",
+    "example": "Aus Liebe zur Natur kaufte er ein Haus auf dem Land.",
+    "example_ru": "Из любви к природе он купил дом за городом.",
+    "etymology": "Существительное Liebe часто употребляется в выражении Liebe zu etwas oder jemandem haben — «испытывать любовь к чему-то или кому-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому в сочетании die Liebe используется предлог zu.",
+    "usage": "Используется, когда говорят о сильной привязанности или любви к людям, идеям или вещам: Liebe zu Kindern, zu Musik, zu Tieren, zur Natur."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Höflichkeit ___",
-      "ru": "вежливость к кому-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Höflichkeit zu + D",
-      "translation": "вежливость к кому-то",
-      "example": "Mit Höflichkeit kommt man schneller zum Erfolg.",
-      "example_ru": "С вежливостью быстрее добиваются успеха.",
-      "etymology": "Слово Höflichkeit употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «вежливость к кому-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Höflichkeit zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Lust ___", "ru": "желание / охота на что-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Lust auf + A",
+    "translation": "желание / охота на что-то",
+    "example": "Mein Sohn hat nachmittags meist Lust auf Pizza.",
+    "example_ru": "Моему сыну после обеда обычно хочется пиццу.",
+    "etymology": "Существительное Lust часто употребляется в выражении Lust haben auf — «хотеть что-то, испытывать желание к чему-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому как в конструкции Lust haben auf, так и в существительном die Lust используется предлог auf.",
+    "usage": "Используется, когда говорят о желании или настроении что-то сделать или получить: Lust auf Pizza, auf Urlaub, auf ein Gespräch."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "das Interesse ___",
-      "ru": "интерес к чему-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "das Interesse an + D",
-      "translation": "интерес к чему-то",
-      "example": "Wir haben Interesse an diesem Wagen.",
-      "example_ru": "У нас есть интерес к этой машине.",
-      "etymology": "Слово Interesse употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «интерес к чему-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: das Interesse an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "das Misstrauen ___", "ru": "недоверие к кому-то" },
+  "answers": [
+    { "text": "gegenüber", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "das Misstrauen gegenüber + D",
+    "translation": "недоверие к кому-то",
+    "example": "Der Kaufinteressent hatte großes Misstrauen gegenüber dem Immobilienmakler.",
+    "example_ru": "Потенциальный покупатель сильно не доверял агенту по недвижимости.",
+    "etymology": "Существительное Misstrauen связано с прилагательным misstrauisch gegenüber — «недоверчивый по отношению к кому-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении misstrauisch gegenüber, так и в существительном das Misstrauen используется предлог gegenüber.",
+    "usage": "Используется, когда говорят о недоверии или подозрении по отношению к людям или организациям: Misstrauen gegenüber einem Verkäufer, gegenüber der Regierung, gegenüber Fremden."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Liebe ___",
-      "ru": "любовь к чему-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Liebe zu + D",
-      "translation": "любовь к чему-то",
-      "example": "Aus Liebe zur Natur kaufte er ein Haus auf dem Land.",
-      "example_ru": "Из любви к природе он купил дом за городом.",
-      "etymology": "Слово Liebe употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «любовь к чему-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Liebe zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Neid ___", "ru": "зависть к кому-то / чему-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Neid auf + A",
+    "translation": "зависть к кому-то / чему-то",
+    "example": "Unter den Zeitarbeitern herrschte Neid auf die Festangestellten.",
+    "example_ru": "Среди временных работников царила зависть к постоянным сотрудникам.",
+    "etymology": "Существительное Neid связано с прилагательным neidisch auf — «завидовать кому-то или чему-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении neidisch auf, так и в существительном der Neid используется предлог auf.",
+    "usage": "Используется, когда говорят о зависти к человеку или его успеху, положению или вещам: Neid auf den Erfolg, auf ein neues Auto, auf den Job eines Kollegen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Lust ___",
-      "ru": "желание / охота на что-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Lust auf + A",
-      "translation": "желание / охота на что-то",
-      "example": "Mein Sohn hat nachmittags meist Lust auf Pizza.",
-      "example_ru": "Моему сыну после обеда обычно хочется пиццу.",
-      "etymology": "Слово Lust употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «желание / охота на что-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Lust auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Neigung ___", "ru": "склонность к чему-то" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Neigung zu + D",
+    "translation": "склонность к чему-то",
+    "example": "Viele Jugendliche besitzen die Neigung zu aggressivem Verhalten.",
+    "example_ru": "У многих подростков есть склонность к агрессивному поведению.",
+    "etymology": "Существительное Neigung связано с прилагательным geneigt zu — «склонный к чему-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении geneigt zu, так и в существительном die Neigung используется предлог zu.",
+    "usage": "Используется, когда говорят о склонности или предрасположенности к определённому поведению или действию: Neigung zu Gewalt, zu Fehlern, zu Übertreibungen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "das Misstrauen ___",
-      "ru": "недоверие к кому-то"
-    },
-    "answers": [
-      {
-        "text": "gegenüber",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "das Misstrauen gegenüber + D",
-      "translation": "недоверие к кому-то",
-      "example": "Der Kaufinteressent hatte großes Misstrauen gegenüber dem Immobilienmakler.",
-      "example_ru": "Потенциальный покупатель сильно не доверял агенту по недвижимости.",
-      "etymology": "Слово Misstrauen употребляется в устойчивом сочетании с предлогом gegenüber. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «недоверие к кому-то». После gegenüber здесь нужен Dativ. Лучше учить сразу как целое выражение: das Misstrauen gegenüber + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Neugier ___", "ru": "любопытство к чему-то / ожидание чего-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Neugier auf + A",
+    "translation": "любопытство к чему-то / ожидание чего-то",
+    "example": "Er war voller Neugier auf das kommende Weihnachtsfest.",
+    "example_ru": "Он был полон любопытства к приближающемуся Рождеству.",
+    "etymology": "Существительное Neugier связано с прилагательным neugierig auf — «любопытный, заинтересованный чем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении neugierig auf, так и в существительном die Neugier используется предлог auf.",
+    "usage": "Используется, когда говорят о сильном интересе или ожидании события: Neugier auf eine Reise, auf eine Überraschung, auf neue Informationen."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Neid ___",
-      "ru": "зависть к кому-то / чему-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Neid auf + A",
-      "translation": "зависть к кому-то / чему-то",
-      "example": "Unter den Zeitarbeitern herrschte Neid auf die Festangestellten.",
-      "example_ru": "Среди временных работников царила зависть к постоянным сотрудникам.",
-      "etymology": "Слово Neid употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «зависть к кому-то / чему-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Neid auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Nutzen ___", "ru": "польза для кого-то / чего-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Nutzen für + A",
+    "translation": "польза для кого-то / чего-то",
+    "example": "Sind Sportwetten von Nutzen für den Sport?",
+    "example_ru": "Полезны ли спортивные ставки для спорта?",
+    "etymology": "Существительное Nutzen связано с прилагательным nützlich für — «полезный для кого-то или чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении nützlich für, так и в существительном der Nutzen используется предлог für.",
+    "usage": "Используется, когда говорят о пользе или выгоде для людей, организаций или сфер деятельности: Nutzen für die Gesellschaft, für die Wirtschaft, für die Gesundheit."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Neigung ___",
-      "ru": "склонность к чему-то"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Neigung zu + D",
-      "translation": "склонность к чему-то",
-      "example": "Viele Jugendliche besitzen die Neigung zu aggressivem Verhalten.",
-      "example_ru": "У многих подростков есть склонность к агрессивному поведению.",
-      "etymology": "Слово Neigung употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «склонность к чему-то». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Neigung zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Reichtum ___", "ru": "богатство чем-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Reichtum an + D",
+    "translation": "богатство чем-то",
+    "example": "Honduras ist bekannt für seinen Reichtum an Flora und Fauna.",
+    "example_ru": "Гондурас известен своим богатством флоры и фауны.",
+    "etymology": "Существительное Reichtum связано с прилагательным reich an — «богатый чем-то, обладающий большим количеством чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении reich an, так и в существительном der Reichtum используется предлог an.",
+    "usage": "Используется, когда говорят о большом количестве или разнообразии чего-либо: Reichtum an Rohstoffen, an Ideen, an Kultur."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Neugier ___",
-      "ru": "любопытство к чему-то / ожидание чего-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Neugier auf + A",
-      "translation": "любопытство к чему-то / ожидание чего-то",
-      "example": "Er war voller Neugier auf das kommende Weihnachtsfest.",
-      "example_ru": "Он был полон любопытства к приближающемуся Рождеству.",
-      "etymology": "Слово Neugier употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «любопытство к чему-то / ожидание чего-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Neugier auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Rücksicht ___", "ru": "внимание / учёт чего-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Rücksicht auf + A",
+    "translation": "внимание / учёт чего-то",
+    "example": "Aus Rücksicht auf seine schwangere Frau gab er das Rauchen auf.",
+    "example_ru": "Из уважения к своей беременной жене он бросил курить.",
+    "etymology": "Существительное Rücksicht связано с выражением Rücksicht nehmen auf — «принимать во внимание, учитывать что-то или кого-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому как в конструкции Rücksicht nehmen auf, так и в существительном die Rücksicht используется предлог auf.",
+    "usage": "Используется, когда говорят об учёте интересов, чувств или обстоятельств: Rücksicht auf Kinder, auf Nachbarn, auf die Gesundheit."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Nutzen ___",
-      "ru": "польза для кого-то / чего-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Nutzen für + A",
-      "translation": "польза для кого-то / чего-то",
-      "example": "Sind Sportwetten von Nutzen für den Sport?",
-      "example_ru": "Полезны ли спортивные ставки для спорта?",
-      "etymology": "Слово Nutzen употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «польза для кого-то / чего-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Nutzen für + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Schuld ___", "ru": "вина в чём-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Schuld an + D",
+    "translation": "вина в чём-то",
+    "example": "Wer hatte Schuld am Unfall?",
+    "example_ru": "Кто был виноват в аварии?",
+    "etymology": "Существительное Schuld связано с выражением schuld sein an — «быть виноватым в чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее выражение. Поэтому как в конструкции schuld sein an, так и в существительном die Schuld используется предлог an.",
+    "usage": "Используется, когда говорят о вине или ответственности за событие: Schuld am Unfall, am Scheitern eines Projekts, an einem Fehler."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Reichtum ___",
-      "ru": "богатство чем-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Reichtum an + D",
-      "translation": "богатство чем-то",
-      "example": "Honduras ist bekannt für seinen Reichtum an Flora und Fauna.",
-      "example_ru": "Гондурас известен своим богатством флоры и фауны.",
-      "etymology": "Слово Reichtum употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «богатство чем-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: der Reichtum an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Schutz ___", "ru": "защита от чего-то" },
+  "answers": [
+    { "text": "vor", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Schutz vor + D",
+    "translation": "защита от чего-то",
+    "example": "Ein gutes Immunsystem ist der beste Schutz vor einer Grippe.",
+    "example_ru": "Хорошая иммунная система — лучшая защита от гриппа.",
+    "etymology": "Существительное Schutz связано с глаголом schützen vor — «защищать от чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции schützen vor, так и в выражении der Schutz используется предлог vor.",
+    "usage": "Используется, когда говорят о защите от опасности, болезни или угрозы: Schutz vor Regen, vor Krankheit, vor Lärm."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Rücksicht ___",
-      "ru": "внимание / учёт чего-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Rücksicht auf + A",
-      "translation": "внимание / учёт чего-то",
-      "example": "Aus Rücksicht auf seine schwangere Frau gab er das Rauchen auf.",
-      "example_ru": "Из уважения к своей беременной жене он бросил курить.",
-      "etymology": "Слово Rücksicht употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «внимание / учёт чего-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Rücksicht auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Schwierigkeit ___", "ru": "трудность для кого-то / чего-то" },
+  "answers": [
+    { "text": "für", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Schwierigkeit für + A",
+    "translation": "трудность для кого-то / чего-то",
+    "example": "Rückwärts einparken ist keine Schwierigkeit für mich.",
+    "example_ru": "Парковаться задним ходом для меня не трудно.",
+    "etymology": "Существительное Schwierigkeit связано с прилагательным schwierig für — «трудный для кого-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении schwierig für, так и в существительном die Schwierigkeit используется предлог für.",
+    "usage": "Используется, когда говорят о том, что что-то является трудным для человека или группы: Schwierigkeit für Anfänger, für Studenten, für Kinder."
+  }
+},
+ {
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Sicherheit ___", "ru": "защита / безопасность от чего-то" },
+  "answers": [
+    { "text": "vor", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Sicherheit vor + D",
+    "translation": "защита / безопасность от чего-то",
+    "example": "Ein Deich bietet Sicherheit vor dem Hochwasser.",
+    "example_ru": "Дамба обеспечивает защиту от наводнения.",
+    "etymology": "Существительное Sicherheit часто употребляется в контексте защиты от опасности. Оно связано с выражениями wie schützen vor oder Sicherheit bieten vor — «защищать от чего-то». Поэтому в сочетании die Sicherheit используется предлог vor.",
+    "usage": "Используется, когда говорят о защите от опасности, угрозы или вреда: Sicherheit vor Hochwasser, vor Angriffen, vor Krankheiten."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Schuld ___",
-      "ru": "вина в чём-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Schuld an + D",
-      "translation": "вина в чём-то",
-      "example": "Wer hatte Schuld am Unfall?",
-      "example_ru": "Кто был виноват в аварии?",
-      "etymology": "Слово Schuld употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «вина в чём-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: die Schuld an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Sorge ___", "ru": "забота / тревога о ком-то" },
+  "answers": [
+    { "text": "um", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Sorge um + A",
+    "translation": "забота / тревога о ком-то",
+    "example": "Die Sorge um den Verlust des Arbeitsplatzes kann krank machen.",
+    "example_ru": "Тревога из-за потери рабочего места может сделать человека больным.",
+    "etymology": "Существительное Sorge связано с глагольным выражением sich sorgen um — «беспокоиться о ком-то или о чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции sich sorgen um, так и в существительном die Sorge используется предлог um.",
+    "usage": "Используется, когда говорят о беспокойстве или заботе о людях, будущем или ситуации: Sorge um die Familie, um die Gesundheit, um den Arbeitsplatz."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Schutz ___",
-      "ru": "защита от чего-то"
-    },
-    "answers": [
-      {
-        "text": "vor",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Schutz vor + D",
-      "translation": "защита от чего-то",
-      "example": "Ein gutes Immunsystem ist der beste Schutz vor einer Grippe.",
-      "example_ru": "Хорошая иммунная система — лучшая защита от гриппа.",
-      "etymology": "Слово Schutz употребляется в устойчивом сочетании с предлогом vor. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «защита от чего-то». После vor здесь нужен Dativ. Лучше учить сразу как целое выражение: der Schutz vor + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Stolz ___", "ru": "гордость за кого-то / что-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Stolz auf + A",
+    "translation": "гордость за кого-то / что-то",
+    "example": "Der Vater war voller Stolz auf seinen erfolgreichen Sohn.",
+    "example_ru": "Отец был полон гордости за своего успешного сына.",
+    "etymology": "Существительное Stolz связано с прилагательным stolz auf — «гордиться кем-то или чем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении stolz auf, так и в существительном der Stolz используется предлог auf.",
+    "usage": "Используется, когда говорят о чувстве гордости за человека, достижение или результат: Stolz auf den Sohn, auf einen Erfolg, auf die eigene Arbeit."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Schwierigkeit ___",
-      "ru": "трудность для кого-то / чего-то"
-    },
-    "answers": [
-      {
-        "text": "für",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Schwierigkeit für + A",
-      "translation": "трудность для кого-то / чего-то",
-      "example": "Rückwärts einparken ist keine Schwierigkeit für mich.",
-      "example_ru": "Парковаться задним ходом для меня не трудно.",
-      "etymology": "Слово Schwierigkeit употребляется в устойчивом сочетании с предлогом für. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «трудность для кого-то / чего-то». После für здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Schwierigkeit für + Akkusativ."
-    }
-  },
-  {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Sicherheit ___",
-      "ru": "защита / безопасность от чего-то"
-    },
-    "answers": [
-      {
-        "text": "vor",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Sicherheit vor + D",
-      "translation": "защита / безопасность от чего-то",
-      "example": "Ein Deich bietet Sicherheit vor dem Hochwasser.",
-      "example_ru": "Дамба обеспечивает защиту от наводнения.",
-      "etymology": "Слово Sicherheit употребляется в устойчивом сочетании с предлогом vor. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «защита / безопасность от чего-то». После vor здесь нужен Dativ. Лучше учить сразу как целое выражение: die Sicherheit vor + Dativ."
-    }
-  },
-  {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Sorge ___",
-      "ru": "забота / тревога о ком-то"
-    },
-    "answers": [
-      {
-        "text": "um",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Sorge um + A",
-      "translation": "забота / тревога о ком-то",
-      "example": "Die Sorge um den Verlust des Arbeitsplatzes kann krank machen.",
-      "example_ru": "Тревога из-за потери рабочего места может сделать человека больным.",
-      "etymology": "Слово Sorge употребляется в устойчивом сочетании с предлогом um. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «забота / тревога о ком-то». После um здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Sorge um + Akkusativ."
-    }
-  },
-  {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Stolz ___",
-      "ru": "гордость за кого-то / что-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Stolz auf + A",
-      "translation": "гордость за кого-то / что-то",
-      "example": "Der Vater war voller Stolz auf seinen erfolgreichen Sohn.",
-      "example_ru": "Отец был полон гордости за своего успешного сына.",
-      "etymology": "Слово Stolz употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «гордость за кого-то / что-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Stolz auf + Akkusativ."
-    }
-  },
-  {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Teilnahme ___",
-      "ru": "участие в чём-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Teilnahme an + D",
-      "translation": "участие в чём-то",
-      "example": "Ich muss meine Teilnahme am Seminar leider absagen.",
-      "example_ru": "К сожалению, мне нужно отменить своё участие в семинаре.",
-      "etymology": "Слово Teilnahme употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «участие в чём-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: die Teilnahme an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Teilnahme ___", "ru": "участие в чём-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Teilnahme an + D",
+    "translation": "участие в чём-то",
+    "example": "Ich muss meine Teilnahme am Seminar leider absagen.",
+    "example_ru": "К сожалению, мне нужно отменить своё участие в семинаре.",
+    "etymology": "Существительное Teilnahme связано с глаголом teilnehmen an — «принимать участие в чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции teilnehmen an, так и в существительном die Teilnahme используется предлог an.",
+    "usage": "Используется, когда говорят об участии в мероприятиях или действиях: Teilnahme an einem Seminar, an einem Wettbewerb, an einer Diskussion."
+  }
+},
   {
     "category": "Substantive mit Präpositionen",
     "question": {
