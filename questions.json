@@ -1,169 +1,94 @@
 [
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Abhängigkeit ___",
-      "ru": "зависимость от чего-то"
-    },
-    "answers": [
-      {
-        "text": "von",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Abhängigkeit von + D",
-      "translation": "зависимость от чего-то",
-      "example": "Die Abhängigkeit vom Alkohol verursacht bei Krankenkassen hohe Kosten.",
-      "example_ru": "Зависимость от алкоголя вызывает у страховых касс высокие расходы.",
-      "etymology": "Слово Abhängigkeit употребляется в устойчивом сочетании с предлогом von. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «зависимость от чего-то». После von здесь нужен Dativ. Лучше учить сразу как целое выражение: die Abhängigkeit von + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Abhängigkeit ___", "ru": "зависимость от чего-то" },
+  "answers": [
+    { "text": "von", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Abhängigkeit von + D",
+    "translation": "зависимость от чего-то",
+    "example": "Die Abhängigkeit vom Alkohol verursacht bei Krankenkassen hohe Kosten.",
+    "example_ru": "Зависимость от алкоголя вызывает у страховых касс высокие расходы.",
+    "etymology": "Существительное Abhängigkeit происходит от глагола abhängen von — «зависеть от». В немецком языке многие существительные сохраняют тот же предлог, что и исходный глагол. Поэтому как глагол abhängen von, так и существительное die Abhängigkeit употребляются с предлогом von.",
+    "usage": "Чаще всего используется в контексте зависимости от людей, веществ, условий или обстоятельств: Abhängigkeit von Alkohol, von Drogen, von Eltern, von Geld, von Energieimporten. Выражение широко встречается в медицине, политике и экономике."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Angst ___",
-      "ru": "страх перед чем-то"
-    },
-    "answers": [
-      {
-        "text": "vor",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Angst vor + D",
-      "translation": "страх перед чем-то",
-      "example": "Peter hatte keine Angst vor Spinnen.",
-      "example_ru": "Петер не боялся пауков.",
-      "etymology": "Слово Angst употребляется в устойчивом сочетании с предлогом vor. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «страх перед чем-то». После vor здесь нужен Dativ. Лучше учить сразу как целое выражение: die Angst vor + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Angst ___", "ru": "страх перед чем-то" },
+  "answers": [
+    { "text": "vor", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Angst vor + D",
+    "translation": "страх перед чем-то",
+    "example": "Peter hatte keine Angst vor Spinnen.",
+    "example_ru": "Петер не боялся пауков.",
+    "etymology": "Существительное Angst связано с глаголом Angst haben vor — «бояться чего-то». В немецком языке многие существительные сохраняют тот же предлог, что и соответствующий глагол или выражение. Поэтому как в конструкции Angst haben vor, так и в существительном die Angst используется предлог vor.",
+    "usage": "Употребляется для обозначения страха перед людьми, животными, ситуациями или событиями: Angst vor Spinnen, vor Hunden, vor der Prüfung, vor der Zukunft, vor Krankheiten."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Antwort ___",
-      "ru": "ответ на что-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Antwort auf + A",
-      "translation": "ответ на что-то",
-      "example": "Das ist eine gute Antwort auf meine Frage.",
-      "example_ru": "Это хороший ответ на мой вопрос.",
-      "etymology": "Слово Antwort употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «ответ на что-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Antwort auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Antwort ___", "ru": "ответ на что-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Antwort auf + A",
+    "translation": "ответ на что-то",
+    "example": "Das ist eine gute Antwort auf meine Frage.",
+    "example_ru": "Это хороший ответ на мой вопрос.",
+    "etymology": "Существительное Antwort связано с глаголом antworten auf — «отвечать на что-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в глаголе antworten auf, так и в выражении die Antwort используется предлог auf.",
+    "usage": "Используется, когда речь идет о реакции или ответе на вопрос, письмо или действие: Antwort auf eine Frage, auf eine E-Mail, auf eine Einladung, auf Kritik."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Ärger ___",
-      "ru": "злость / раздражение из-за чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Ärger über + A",
-      "translation": "злость / раздражение из-за чего-то",
-      "example": "Es gab viel Ärger über das neue Smartphone.",
-      "example_ru": "Было много раздражения из-за нового смартфона.",
-      "etymology": "Слово Ärger употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «злость / раздражение из-за чего-то». После über здесь нужен Akkusativ. Лучше учить сразу как целое выражение: der Ärger über + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Ärger ___", "ru": "злость / раздражение из-за чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Ärger über + A",
+    "translation": "злость / раздражение из-за чего-то",
+    "example": "Es gab viel Ärger über das neue Smartphone.",
+    "example_ru": "Было много раздражения из-за нового смартфона.",
+    "etymology": "Существительное Ärger связано с глаголом sich ärgern über — «злиться из-за чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в выражении sich ärgern über, так и в существительном der Ärger используется предлог über.",
+    "usage": "Используется, когда говорят о раздражении или конфликте из-за ситуации, действия или события: Ärger über eine Entscheidung, über den Chef, über eine Verspätung, über hohe Preise."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Armut ___",
-      "ru": "бедность / нехватка чего-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Armut an + D",
-      "translation": "бедность / нехватка чего-то",
-      "example": "Die Armut an roten Blutkörperchen nennt man Anämie.",
-      "example_ru": "Недостаток красных кровяных телец называют анемией.",
-      "etymology": "Слово Armut употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «бедность / нехватка чего-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: die Armut an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Armut ___", "ru": "бедность / нехватка чего-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Armut an + D",
+    "translation": "бедность / нехватка чего-то",
+    "example": "Die Armut an roten Blutkörperchen nennt man Anämie.",
+    "example_ru": "Недостаток красных кровяных телец называют анемией.",
+    "etymology": "В немецком языке предлог an часто используется, когда речь идет о нехватке или недостатке чего-то. Поэтому существительное Armut может употребляться с an, чтобы обозначить дефицит определённого ресурса или качества.",
+    "usage": "Используется, когда говорят о недостатке чего-то в абстрактном или научном контексте: Armut an Rohstoffen, an Ideen, an Nährstoffen, an roten Blutkörperchen."
+  }
+},
   {
     "category": "Substantive mit Präpositionen",
     "question": {
