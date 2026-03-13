@@ -990,368 +990,203 @@
   }
 },
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Trauer ___",
-      "ru": "скорбь по поводу чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Trauer über + D",
-      "translation": "скорбь по поводу чего-то",
-      "example": "Es herrschte große Trauer über den Tod des Musikers.",
-      "example_ru": "Повсюду царила большая скорбь из-за смерти музыканта.",
-      "etymology": "Слово Trauer употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «скорбь по поводу чего-то». После über здесь нужен Dativ. Лучше учить сразу как целое выражение: die Trauer über + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Trauer ___", "ru": "скорбь по поводу чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Trauer über + A",
+    "translation": "скорбь по поводу чего-то",
+    "example": "Es herrschte große Trauer über den Tod des Musikers.",
+    "example_ru": "Повсюду царила большая скорбь из-за смерти музыканта.",
+    "etymology": "Существительное Trauer связано с прилагательным traurig über — «грустный из-за чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное или выражение. Поэтому как в конструкции traurig über, так и в существительном die Trauer используется предлог über.",
+    "usage": "Используется, когда говорят о скорби или глубокой печали из-за события: Trauer über den Tod, über einen Verlust, über eine Katastrophe."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Unterschied ___",
-      "ru": "разница между чем-то"
-    },
-    "answers": [
-      {
-        "text": "zwischen",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Unterschied zwischen + D",
-      "translation": "разница между чем-то",
-      "example": "Der Unterschied zwischen Armen und Reichen wird immer größer.",
-      "example_ru": "Разница между бедными и богатыми становится всё больше.",
-      "etymology": "Слово Unterschied употребляется в устойчивом сочетании с предлогом zwischen. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «разница между чем-то». После zwischen здесь нужен Dativ. Лучше учить сразу как целое выражение: der Unterschied zwischen + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Unterschied ___", "ru": "разница между чем-то" },
+  "answers": [
+    { "text": "zwischen", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Unterschied zwischen + D",
+    "translation": "разница между чем-то",
+    "example": "Der Unterschied zwischen Armen und Reichen wird immer größer.",
+    "example_ru": "Разница между бедными и богатыми становится всё больше.",
+    "etymology": "Существительное Unterschied связано с глаголом sich unterscheiden — «отличаться». Когда сравнивают два или несколько объектов, в немецком языке используется предлог zwischen — «между». Поэтому в выражении der Unterschied употребляется конструкция zwischen.",
+    "usage": "Используется, когда говорят о различии между людьми, предметами или явлениями: Unterschied zwischen zwei Kulturen, zwischen Männern und Frauen, zwischen Theorie und Praxis."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "das Verhalten ___",
-      "ru": "поведение по отношению к кому-то"
-    },
-    "answers": [
-      {
-        "text": "gegenüber",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "das Verhalten gegenüber + D",
-      "translation": "поведение по отношению к кому-то",
-      "example": "Das Verhalten gegenüber Mitmenschen sollte stets korrekt sein.",
-      "example_ru": "Поведение по отношению к другим людям всегда должно быть корректным.",
-      "etymology": "Слово Verhalten употребляется в устойчивом сочетании с предлогом gegenüber. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «поведение по отношению к кому-то». После gegenüber здесь нужен Dativ. Лучше учить сразу как целое выражение: das Verhalten gegenüber + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "das Verhalten ___", "ru": "поведение по отношению к кому-то" },
+  "answers": [
+    { "text": "gegenüber", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "das Verhalten gegenüber + D",
+    "translation": "поведение по отношению к кому-то",
+    "example": "Das Verhalten gegenüber Mitmenschen sollte stets korrekt sein.",
+    "example_ru": "Поведение по отношению к другим людям всегда должно быть корректным.",
+    "etymology": "Существительное Verhalten связано с глаголом sich verhalten gegenüber — «вести себя по отношению к кому-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол или выражение. Поэтому как в конструкции sich verhalten gegenüber, так и в существительном das Verhalten используется предлог gegenüber.",
+    "usage": "Используется, когда говорят о том, как человек ведёт себя по отношению к другим: Verhalten gegenüber Kollegen, gegenüber Kindern, gegenüber Kunden."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Verlobung ___",
-      "ru": "помолвка с кем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Verlobung mit + D",
-      "translation": "помолвка с кем-то",
-      "example": "Fürst Albert hat seine Verlobung bekannt gegeben.",
-      "example_ru": "Князь Альберт объявил о своей помолвке.",
-      "etymology": "Слово Verlobung употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «помолвка с кем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Verlobung mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Verlobung ___", "ru": "помолвка с кем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Verlobung mit + D",
+    "translation": "помолвка с кем-то",
+    "example": "Fürst Albert hat seine Verlobung bekannt gegeben.",
+    "example_ru": "Князь Альберт объявил о своей помолвке.",
+    "etymology": "Существительное Verlobung связано с глаголом sich verloben mit — «обручиться с кем-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол. Поэтому как в конструкции sich verloben mit, так и в существительном die Verlobung используется предлог mit.",
+    "usage": "Используется, когда говорят о помолвке двух людей: Verlobung mit einer Freundin, mit einem Kollegen, mit einer Prinzessin."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Verwandtschaft ___",
-      "ru": "родство с кем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Verwandtschaft mit + D",
-      "translation": "родство с кем-то",
-      "example": "Besteht eine Verwandtschaft mit einer berühmten Person?",
-      "example_ru": "Есть ли родство с известным человеком?",
-      "etymology": "Слово Verwandtschaft употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «родство с кем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Verwandtschaft mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Verwandtschaft ___", "ru": "родство с кем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Verwandtschaft mit + D",
+    "translation": "родство с кем-то",
+    "example": "Besteht eine Verwandtschaft mit einer berühmten Person?",
+    "example_ru": "Есть ли родство с известным человеком?",
+    "etymology": "Существительное Verwandtschaft связано с выражением verwandt mit — «быть родственником кого-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное или выражение. Поэтому как в конструкции verwandt mit, так и в существительном die Verwandtschaft используется предлог mit.",
+    "usage": "Используется, когда говорят о родственных связях между людьми: Verwandtschaft mit einer Familie, mit einer berühmten Person, mit entfernten Verwandten."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Wahl ___",
-      "ru": "избрание на должность"
-    },
-    "answers": [
-      {
-        "text": "zu",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Wahl zu + D",
-      "translation": "избрание на должность",
-      "example": "Die Wahl zum Bundespräsidenten dauerte länger als erwartet.",
-      "example_ru": "Выборы федерального президента длились дольше, чем ожидалось.",
-      "etymology": "Слово Wahl употребляется в устойчивом сочетании с предлогом zu. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «избрание на должность». После zu здесь нужен Dativ. Лучше учить сразу как целое выражение: die Wahl zu + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Wahl ___", "ru": "избрание на должность" },
+  "answers": [
+    { "text": "zu", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Wahl zu + D",
+    "translation": "избрание на должность",
+    "example": "Die Wahl zum Bundespräsidenten dauerte länger als erwartet.",
+    "example_ru": "Выборы федерального президента длились дольше, чем ожидалось.",
+    "etymology": "Существительное Wahl связано с выражением gewählt werden zu — «быть избранным на должность». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующая конструкция. Поэтому как в выражении gewählt werden zu, так и в сочетании die Wahl используется предлог zu.",
+    "usage": "Используется, когда говорят об избрании на определённую должность: Wahl zum Präsidenten, zum Bürgermeister, zum Vorsitzenden."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Wunsch ___",
-      "ru": "желание чего-то"
-    },
-    "answers": [
-      {
-        "text": "nach",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Wunsch nach + D",
-      "translation": "желание чего-то",
-      "example": "Nach einem stressigen Tag habe ich den Wunsch nach absoluter Ruhe.",
-      "example_ru": "После напряжённого дня у меня есть желание полной тишины.",
-      "etymology": "Слово Wunsch употребляется в устойчивом сочетании с предлогом nach. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «желание чего-то». После nach здесь нужен Dativ. Лучше учить сразу как целое выражение: der Wunsch nach + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Wunsch ___", "ru": "желание чего-то" },
+  "answers": [
+    { "text": "nach", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Wunsch nach + D",
+    "translation": "желание чего-то",
+    "example": "Nach einem stressigen Tag habe ich den Wunsch nach absoluter Ruhe.",
+    "example_ru": "После напряжённого дня у меня есть желание полной тишины.",
+    "etymology": "Существительное Wunsch часто употребляется в выражении Wunsch nach etwas haben — «испытывать желание к чему-то». В немецком языке существительные могут сохранять тот же предлог, что и соответствующее выражение. Поэтому в сочетании der Wunsch используется предлог nach.",
+    "usage": "Используется, когда говорят о стремлении или желании получить что-то: Wunsch nach Ruhe, nach Freiheit, nach Veränderung."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Wut ___",
-      "ru": "злость на кого-то"
-    },
-    "answers": [
-      {
-        "text": "auf",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Wut auf + A",
-      "translation": "злость на кого-то",
-      "example": "Die Wut auf unfreundliche Verkäufer ist verständlich.",
-      "example_ru": "Злость на недружелюбных продавцов понятна.",
-      "etymology": "Слово Wut употребляется в устойчивом сочетании с предлогом auf. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «злость на кого-то». После auf здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Wut auf + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Wut ___", "ru": "злость на кого-то" },
+  "answers": [
+    { "text": "auf", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Wut auf + A",
+    "translation": "злость на кого-то",
+    "example": "Die Wut auf unfreundliche Verkäufer ist verständlich.",
+    "example_ru": "Злость на недружелюбных продавцов понятна.",
+    "etymology": "Существительное Wut связано с прилагательным wütend auf — «злой на кого-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении wütend auf, так и в существительном die Wut используется предлог auf.",
+    "usage": "Используется, когда говорят о сильной злости или гневе по отношению к человеку или ситуации: Wut auf einen Kollegen, auf den Chef, auf eine ungerechte Entscheidung."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Wut ___",
-      "ru": "злость из-за чего-то"
-    },
-    "answers": [
-      {
-        "text": "über",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Wut über + A",
-      "translation": "злость из-за чего-то",
-      "example": "In der ganzen Welt herrschte große Wut über die Ölkatastrophe.",
-      "example_ru": "Во всём мире царила большая злость из-за нефтяной катастрофы.",
-      "etymology": "Слово Wut употребляется в устойчивом сочетании с предлогом über. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «злость из-за чего-то». После über здесь нужен Akkusativ. Лучше учить сразу как целое выражение: die Wut über + Akkusativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Wut ___", "ru": "злость из-за чего-то" },
+  "answers": [
+    { "text": "über", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Wut über + A",
+    "translation": "злость из-за чего-то",
+    "example": "In der ganzen Welt herrschte große Wut über die Ölkatastrophe.",
+    "example_ru": "Во всём мире царила большая злость из-за нефтяной катастрофы.",
+    "etymology": "Существительное Wut связано с прилагательным wütend über — «злой из-за чего-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующее прилагательное. Поэтому как в выражении wütend über, так и в существительном die Wut используется предлог über.",
+    "usage": "Используется, когда говорят о гневе из-за события или ситуации: Wut über einen Skandal, über eine Ungerechtigkeit, über eine Katastrophe."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "die Zufriedenheit ___",
-      "ru": "удовлетворённость чем-то"
-    },
-    "answers": [
-      {
-        "text": "mit",
-        "correct": true
-      },
-      {
-        "text": "an",
-        "correct": false
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "die Zufriedenheit mit + D",
-      "translation": "удовлетворённость чем-то",
-      "example": "Die Zufriedenheit mit den Studiengebühren ist in Bayreuth am höchsten.",
-      "example_ru": "Удовлетворённость платой за обучение в Байройте самая высокая.",
-      "etymology": "Слово Zufriedenheit употребляется в устойчивом сочетании с предлогом mit. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «удовлетворённость чем-то». После mit здесь нужен Dativ. Лучше учить сразу как целое выражение: die Zufriedenheit mit + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "die Zufriedenheit ___", "ru": "удовлетворённость чем-то" },
+  "answers": [
+    { "text": "mit", "correct": true },
+    { "text": "an", "correct": false },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false }
+  ],
+  "info": {
+    "phrase": "die Zufriedenheit mit + D",
+    "translation": "удовлетворённость чем-то",
+    "example": "Die Zufriedenheit mit den Studiengebühren ist in Bayreuth am höchsten.",
+    "example_ru": "Удовлетворённость платой за обучение в Байройте самая высокая.",
+    "etymology": "Существительное Zufriedenheit связано с прилагательным zufrieden mit — «довольный чем-то». Предлог сохраняется при переходе от прилагательного к существительному: zufrieden mit etwas → die Zufriedenheit mit etwas.",
+    "usage": "Используется, когда оценивают результат, качество или условия: Zufriedenheit mit der Arbeit, mit dem Service, mit dem Ergebnis."
+  }
+},
   {
-    "category": "Substantive mit Präpositionen",
-    "question": {
-      "de": "der Zweifel ___",
-      "ru": "сомнение в чём-то"
-    },
-    "answers": [
-      {
-        "text": "an",
-        "correct": true
-      },
-      {
-        "text": "auf",
-        "correct": false
-      },
-      {
-        "text": "bei",
-        "correct": false
-      },
-      {
-        "text": "für",
-        "correct": false
-      }
-    ],
-    "info": {
-      "phrase": "der Zweifel an + D",
-      "translation": "сомнение в чём-то",
-      "example": "Das Gericht hatte Zweifel an der Glaubwürdigkeit des Angeklagten.",
-      "example_ru": "У суда были сомнения в достоверности показаний обвиняемого.",
-      "etymology": "Слово Zweifel употребляется в устойчивом сочетании с предлогом an. Такую связку лучше запоминать как готовую модель целиком, а не по отдельности.",
-      "usage": "Употребляется в значении «сомнение в чём-то». После an здесь нужен Dativ. Лучше учить сразу как целое выражение: der Zweifel an + Dativ."
-    }
-  },
+  "category": "Substantive mit Präpositionen",
+  "question": { "de": "der Zweifel ___", "ru": "сомнение в чём-то" },
+  "answers": [
+    { "text": "an", "correct": true },
+    { "text": "auf", "correct": false },
+    { "text": "bei", "correct": false },
+    { "text": "für", "correct": false }
+  ],
+  "info": {
+    "phrase": "der Zweifel an + D",
+    "translation": "сомнение в чём-то",
+    "example": "Das Gericht hatte Zweifel an der Glaubwürdigkeit des Angeklagten.",
+    "example_ru": "У суда были сомнения в достоверности показаний обвиняемого.",
+    "etymology": "Существительное Zweifel связано с глагольной конструкцией zweifeln an — «сомневаться в чём-то». В немецком языке существительные часто сохраняют тот же предлог, что и соответствующий глагол: an etwas zweifeln → der Zweifel an etwas.",
+    "usage": "Используется, когда говорят о недоверии или сомнении в правильности, правдивости или возможности чего-то: Zweifel an einer Aussage, an einer Entscheidung, an der Echtheit eines Dokuments."
+  }
+},
 {
   "category": "Adjektive mit Präpositionen",
   "question": {
